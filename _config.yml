@@ -1,0 +1,12 @@
+title: "James Roy Dennis — Founder of PortusSophia™"
+description: "Professional identity, mission, and institutional genesis of the PortusSophia™ architecture."
+theme: minima
+
+markdown: kramdown
+github:
+  is_project_page: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
