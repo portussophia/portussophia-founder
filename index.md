@@ -1,135 +1,155 @@
 ---
+title: "Founder"
+nav_title: "Founder"
+site_title: "PortusSophia™"
 layout: page
-title: "James Roy Dennis"
+show_header: false
 permalink: /
 ---
 
 # James Roy Dennis
-**Founder of PortusSophia™**
+### Architect • Systems Thinker • Governance-First Designer
+
+I build structures that don't just *work*—they **stay honest under pressure**.
+
+For 35 years I've lived at the intersection of:
+
+- **Architecture & systems design**
+- **Governance & risk**
+- **Human-centered structure**
+
+PortusSophia™ is the most recent expression of that path: a governance-first architecture built to keep complex systems aligned with human meaning. Here, on this site, you're not getting the philosophy or the canon—you're getting **me as a professional**: my skills, my work, and what I can do for your organization.
 
 ---
 
-## Professional Identity
+## What I Do
 
-I am a systems architect, philosophical technologist, and governance designer with over two decades of experience in enterprise architecture, AI systems development, and structural integrity frameworks.
+I specialize in designing and stabilizing complex systems where:
 
-PortusSophia™ is the culmination of a five-year research trajectory exploring how to preserve human meaning within multi-agent architectures while preventing totalizing claims, self-reinforcement loops, and epistemic drift.
+- **Structure is ambiguous**
+- **Risk is real**
+- **Stakeholders don't agree**
+- **Failure has a human cost**
 
----
+My work spans:
 
-## What I Built
+- **Systems & Architecture**
+  - CoSymmetric architectural patterns (CQAA)
+  - Symmetry standards for fragile environments (ASS)
+  - Multi-layered web & governance topologies
 
-**PortusSophia™** is a governance-first architecture that:
+- **Governance & Risk**
+  - Role-separated stewardship frameworks
+  - Witness/audit patterns for decision-making
+  - Drift detection and boundary definition
 
-- Distributes authority across named stewards with strictly limited roles
-- Enforces structural constraints through cryptographic integrity sealing
-- Prevents any single voice (human or agent) from becoming absolute
-- Records critical decisions in an immutable, auditable ledger (Golden Trace)
-- Encodes epistemic humility directly into architectural postulates
+- **Execution Under Constraint**
+  - Delivering clarity with limited budget and high stakes
+  - Translating messy reality into testable, inspectable structure
 
-This is not a philosophical treatise. It is a **working system** with:
-
-- Multi-steward witness cycles (LOGOS structural, DRACO risk)
-- Integrity verification (SHA-256 hashing, public git commits)
-- Bounded emergence (PortusNexus™ postulates N₁–N₇)
-- Layered architecture (Canon, WebKernel, Governance, Academic, Public)
-
----
-
-## Why This Matters
-
-Most AI governance systems treat governance as an afterthought—rules bolted onto existing systems.
-
-PortusSophia™ inverts this: **Governance is the first-class problem.**
-
-Before content, before claims, before "what we say"—the question is: **Who can say what? Under what constraints? With what checks?**
-
-This architecture provides:
-
-- **External auditability** — All sealed artifacts committed to public repositories
-- **Structural safeguards** — Multi-steward witnesses catch single-perspective blind spots
-- **Human authority preserved** — The Founder retains final say within Charter constraints
-- **Anti-totalizing design** — System refuses to make universal or absolute claims
+If you need **clarity, integrity, and a structure that can be inspected without falling apart**, that's where I'm strongest.
 
 ---
 
-## Professional Background
+## Recent Work Highlights
 
-**Enterprise Architecture (15+ years):**
-- Designed and implemented large-scale distributed systems
-- Led technical governance initiatives for Fortune 500 organizations
-- Specialized in resilience engineering and constraint-based design
+### CoSymmetric Quantum-Aligned Architecture (CQAA)
+A structural model for keeping dual-layer systems (technical + human) in coherent tension without collapsing one into the other. It's designed for real-world environments where governance, technology, and people all push on the same structure.
 
-**AI Systems Research (5 years):**
-- Studied multi-agent behavior patterns (JennAI-Inception, 2020)
-- Developed bounded stewardship frameworks
-- Created witness cycle methodologies for drift detection
+**Where it applies:**
 
-**Philosophical Technology:**
-- Integrated structural philosophy (Heraclitus, Hegel, Heidegger) with formal systems
-- Developed PortusNexus™ postulates (N₁–N₇) as operational constraints
-- Pioneered governance-as-architecture approach
+- AI governance
+- Critical infrastructure
+- High-stakes decision systems
 
 ---
 
-## Current Focus
+### Architectural Symmetry Standard (ASS)
 
-**PortusSophia™ Bootstrap Phase (2025):**
-- Establishing canonical corpus (trilingual: English, Latin, Greek)
-- Building integrity verification infrastructure
-- Documenting governance methodologies for external review
-- Preparing for peer review and institutional engagement
+A formal standard for **reciprocal symmetry** in architecture:
+if a system claims to protect humans, its own structure must be able to withstand the same scrutiny it applies to them.
 
-**Future Directions:**
-- Open academic peer review protocol
-- External audit framework
-- Collaborative research partnerships (post-bootstrap)
-- Application layer development (governance-as-a-service)
+**Practical outcomes:**
+
+- No "one-way glass" in governance designs
+- Every check has a counter-check
+- The architecture is forced to be as honest as it expects its users to be
 
 ---
 
-## Documentation & Resources
+### Multi-Site Ecosystem Design for PortusSophia™
 
-### Core Nodes
+Designed a four-site topology that cleanly separates:
 
-- **[Main Site](https://portussophia.com)** — Canonical content and WebKernel narratives
-- **[MIT Research Node](https://mit.portussophia.com)** — Academic documentation, methods, integrity ledger
-- **[Public Orientation](https://public.portussophia.com)** — High-level overview for general audiences
-- **Founder Node** (you are here) — Professional identity and institutional context
+- **Public orientation**
+- **Academic/research**
+- **Engineering & governance**
+- **Founder/professional identity**
 
-### Key Documents
-
-- [Founder Statement](./founder-statement.html) — Official statement of intent and identity
-- [Problem Statement](./problem-statement.html) — Structural crisis being addressed
-- [Institutional Genesis](./institutional-genesis.html) — Origin narrative and significance
-- [Mission](./mission.html) — High-level mission statement
-- [Vision](./vision.html) — Long-term direction
-- [Resume](./resume.html) — Professional résumé
+Each site serves a specific audience with strict **boundary rules** to prevent drift or misuse.
 
 ---
 
-## Professional Contact
+## How I Think
 
-**For academic inquiries:**
-Research collaboration requests should reference the [MIT Research Node](https://mit.portussophia.com).
+My work is anchored in a few non-negotiable principles:
 
-**For institutional engagement:**
-Governance consulting, peer review invitations, or institutional partnerships.
+- **Boundary before growth**
+  If the boundary isn't defined, growth is just disguised chaos.
 
-**For media or public relations:**
-All public-facing communications route through the [Public Orientation Node](https://public.portussophia.com).
+- **Symmetry before power**
+  If a structure can judge, it must itself be judgeable.
 
-**Note:** PortusSophia™ is currently in Bootstrap Phase. External collaboration protocols are under development and will be announced via official channels.
+- **Humans before abstractions**
+  If the model looks clean but the humans collapse, the model is wrong.
 
----
-
-## Status
-
-**Node Status:** Active
-**Last Updated:** 2025-12-04
-**Classification:** WebKernel — Founder Identity Layer
-**Boundary Compliance:** ✅ Verified
+I don't chase cleverness. I chase **structures that stay standing when everything gets loud.**
 
 ---
 
-**PortusSophia™** — Governance-first architecture, preserved in *"Here and Now!"*
+## Where I'm Strongest
+
+- Turning a **messy idea** into a **testable architecture**
+- Designing **governance frameworks** that real people can actually use
+- Bridging between:
+  - founders ↔ engineers
+  - engineers ↔ legal/compliance
+  - idealism ↔ what the budget will tolerate
+
+If you're trying to build something serious and you need an architect who can live in **code, structure, and human reality at the same time**, that's me.
+
+---
+
+## Ways We Can Work Together
+
+- **Architecture & Governance Consulting**
+  Short-term deep dives to stabilize a system, project, or decision-making process.
+
+- **Systems Design & Refactoring**
+  Helping teams restructure an existing architecture that's starting to bend under real-world load.
+
+- **Advisory & Thought Partnership**
+  Ongoing support for founders, teams, or institutions navigating complex transitions.
+
+---
+
+## Contact & Profiles
+
+- **Primary Site:** [portussophia.com](https://www.portussophia.com)
+- **Public Orientation:** [public.portussophia.com](https://public.portussophia.com)
+- **GitHub Organization:** [github.com/portussophia](https://github.com/portussophia)
+
+For professional inquiries or collaboration:
+
+> **Email:** _[add your preferred email here]_
+> **Location:** Baltimore, MD (USA)
+> **Availability:** Open to remote and hybrid opportunities
+
+---
+
+## Closing
+
+I'm not trying to be everywhere.
+I'm trying to build **structures that deserve to exist**—and help organizations do the same.
+
+If that's the kind of work you're doing, or want to be doing, we should talk.
