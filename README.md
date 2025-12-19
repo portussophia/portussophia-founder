@@ -27,98 +27,6 @@
 
 ---
 
-## Deployment Instructions
-
-### Step 1: Create Repository (if needed)
-
-```powershell
-gh repo create portussophia/portussophia-founder --public --description "James Roy Dennis — Founder of PortusSophia™. Professional identity, mission, and institutional context." --homepage "https://founder.portussophia.com"
-```
-
-### Step 2: Push Content
-
-```powershell
-# From this directory (site-public/founder-node/)
-git init
-git add .
-git commit -m "Activate Founder Node — Professional identity layer, Boundary (𝓑) compliant"
-git branch -M main
-git remote add origin https://github.com/portussophia/portussophia-founder.git
-git push -u origin main
-```
-
-### Step 3: Enable GitHub Pages
-
-In repository settings:
-1. Navigate to **Settings → Pages**
-2. Set **Source:** Deploy from branch `main` → `/ (root)`
-3. Set **Custom domain:** `founder.portussophia.com`
-4. Click **Save**
-5. Wait ~5 minutes for GitHub to generate SSL certificate
-
-### Step 4: Configure Cloudflare DNS
-
-In Cloudflare dashboard for `portussophia.com` zone:
-
-1. Navigate to **DNS**
-2. Add or update record:
-   - **Type:** CNAME
-   - **Name:** `founder`
-   - **Target:** `portussophia.github.io`
-   - **TTL:** Auto
-   - **Proxy:** DNS only (gray cloud) — for initial debugging
-3. Delete any conflicting A records for `founder` subdomain
-
-### Step 5: Configure Cloudflare SSL/TLS
-
-In Cloudflare dashboard:
-1. Navigate to **SSL/TLS → Overview**
-2. Set **Mode:** Full (not Flexible)
-3. Navigate to **SSL/TLS → Edge Certificates**
-4. Ensure **Always Use HTTPS:** ✅ On
-5. Ensure **Minimum TLS Version:** 1.2
-
-### Step 6: Verify Deployment
-
-```powershell
-# Test DNS propagation
-nslookup founder.portussophia.com
-
-# Expected: CNAME → portussophia.github.io → A records
-
-# Test HTTP response (wait 5-10 minutes for propagation)
-curl -I https://founder.portussophia.com
-
-# Expected: 200 OK
-```
-
----
-
-## Content Guidelines (Boundary Compliance)
-
-### Allowed Content
-
-- Professional identity and background
-- Mission and vision statements
-- Problem statement and institutional context
-- **Institutional Genesis document** (exclusive to this node)
-- Resume / CV
-- Professional portfolio
-- Public-safe narrative context
-- Contact information for professional inquiries
-
-### Prohibited Content
-
-**Per PS-GOV-FOUNDER-NODE-REQUEST v1.0, this node MUST NOT include:**
-
-- Canon artifacts (reserved for main site)
-- Governance artifacts (witness cycles, detailed risk assessments)
-- Golden Trace entries (except via external links to MIT node)
-- Internal narrative (raw, private, vulnerable content)
-- Funding vector information
-- Lab materials
-- Academic research details (reserved for MIT node)
-
 **Boundary Principle:**
 This node functions as the **Professional Identity Layer**. It establishes credibility, clarity, and legitimacy—not emotional disclosure or system internals.
 
@@ -150,18 +58,9 @@ Boundary (𝓑) requires strict isolation of Founder institutional reflection to
 
 ## Maintenance
 
-**Owner:** PeterGate (Governance Steward)
+**Owner:** James Roy Dennis
 **Content Steward:** Founder (direct authorship, Sara Harmonia tone refinement only)
 **Approval Authority:** Founder (all content changes require Founder approval)
-
-**Update Process:**
-1. Draft content changes locally
-2. Review for Boundary compliance (no Canon/Governance artifacts)
-3. Obtain Founder approval
-4. Commit and push to `main` branch
-5. Verify deployment at `founder.portussophia.com`
-
----
 
 ## Governance Compliance
 
