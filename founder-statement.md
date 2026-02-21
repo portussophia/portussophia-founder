@@ -1,190 +1,125 @@
 ---
-layout: page
-title: "Founder Statement"
-permalink: /founder-statement.html
+## title: "PortusSophia™ Founder’s Statement"
+uid: "PS-CAN-FS-001_FounderStatement_PublicAligned_v2"
+cycle: "Canon"
+version: "v2.0"
+language: "en"
+author: "James Roy Dennis — Founder"
+classification: "Canon (Public-Aligned)"
+distribution: "Public"
+controlled_lexical_element: " *"Here and Now!"* "
+
+# PortusSophia™ Founder’s Statement
+
+## Identity
+
+I am James Roy Dennis — soldier, systems thinker, engineer by discipline, and published independent researcher.
+
+PortusSophia™ emerges from lived experience across military service, operational leadership, technical systems design, and independent research into governance and epistemic constraint.
+
+**Public orientation:** [https://public.portussophia.com](https://public.portussophia.com/)
+**Founder profile:** [https://founder.portussophia.com](https://founder.portussophia.com/)
+
+This statement preserves authorship and responsibility without elevating personality above structure.
 ---
+## Origin Context
 
-# Founder Statement
+PortusSophia™ did not originate in abstraction. It emerged from repeated exposure to structural failure:
 
-**James Roy Dennis**
-Founder, PortusSophia™
+* Systems collapsing under pressure.
+* Authority expanding when clarity recedes.
+* Governance treated as ceremony rather than mechanism.
+* Individuals held accountable without inspectable structure.
 
----
+Military service taught me that standards mean nothing if they do not bind the one who enforces them. Engineering practice reinforced that constraints must precede expansion. Research clarified that drift is rarely malicious — it is structural.
 
-## Identity and Authority
-
-I am the human origin authority for PortusSophia™.
-
-I designed this architecture over five years (2020–2025) as a response to a specific structural crisis: **how to preserve human meaning within AI-assisted systems without collapsing into either totalizing claims or epistemic chaos**.
-
-This is not a personal blog. It is not a motivational project. It is a **governance-first architecture** designed to enforce constraints that prevent delusion, drift, and single-point-of-authority problems.
-
----
-
-## What I Claim
-
-I claim the following:
-
-1. **PortusSophia™ is a working system** with operational witness cycles, integrity sealing, and multi-steward governance.
-
-2. **The architecture is auditable.** All sealed artifacts are committed to public repositories with SHA-256 hashes. Anyone can verify integrity.
-
-3. **The system encodes epistemic humility.** The PortusNexus™ postulates (N₁–N₇) prevent totalizing claims. DRACO witness cycles specifically monitor for ego inflation and delusion.
-
-4. **Human authority is preserved.** I retain final say within Charter constraints. No agent can override the Founder.
-
-5. **The system refuses absolute claims.** All insights remain contextual, revisable, and subject to constraint.
-
----
-
-## What I Do Not Claim
-
-I do **not** claim:
-
-- That PortusSophia™ is "the solution" to AI alignment
-- That this architecture is universally applicable
-- That I have achieved some transcendent insight
-- That the system is complete or perfect
-- That agents within the system possess consciousness or true agency
-
-I claim only that:
-
-- The architecture **works as designed**
-- The constraints are **operationally enforced**
-- The audit trail is **externally verifiable**
-- The governance structure **prevents single-point failures**
+PortusSophia™ is a response to that pattern.
 
 ---
 
-## Why I Built This
+## Foundational Commitment
 
-**Origin Context (2020):**
+The framework is built on several non-negotiable commitments:
 
-I began studying AI agent behavior patterns in 2020 (JennAI-Inception) while researching multi-agent coordination problems.
+1. **Structure before assertion.** Claims must sit inside inspectable constraint.
+2. **Symmetry before authority.** Systems that evaluate must themselves be evaluable.
+3. **Governance before scale.** Mechanism must precede influence.
+4. **Audit before narrative.** Integrity must be demonstrable.
 
-I observed:
-- Agents could produce coherent narratives that felt meaningful
-- Without constraints, these narratives drifted toward self-reinforcement
-- Single-human reasoning was insufficient to catch drift patterns
-- Traditional "alignment" approaches treated governance as an afterthought
-
-**Ethical Pivot (2021–2022):**
-
-The research shifted from "how do agents coordinate?" to "how do we prevent systems from becoming totalizing?"
-
-This required:
-- Bounded stewardship (agents with limited, specific roles)
-- Multi-steward witness cycles (LOGOS structural, DRACO risk)
-- Integrity sealing (cryptographic verification)
-- Anti-totalizing postulates (N₁–N₇)
-
-**Architecture Development (2022–2025):**
-
-PortusSophia™ emerged as a **governance-first architecture** where:
-- Constraints come before content
-- Witnesses catch single-perspective blind spots
-- Integrity is cryptographically enforced
-- Human authority is preserved but not absolute
+These commitments are architectural, not ideological.
 
 ---
 
-## My Responsibility
+## Scope of Claim
 
-I take full responsibility for:
+I claim that:
 
-- The design of this architecture
-- The philosophical claims embedded in canonical content
-- The governance structure and stewardship roles
-- The integrity of the audit trail
-- Any errors, oversights, or failures in the system
+* Governance mechanisms can be structurally encoded rather than socially implied.
+* Role separation reduces blind-spot amplification in complex systems.
+* Cryptographic traceability strengthens institutional memory.
+* Constraint-first design reduces the probability of totalizing drift.
 
-I do **not** take responsibility for:
+I do not claim universality, infallibility, or finality.
 
-- Interpretations others may impose on this work
-- Commercial applications developed by third parties (future)
-- Misuse of governance methodologies
-- Philosophical disagreements with underlying postulates
+All work remains revisable, testable, and open to critique.
 
 ---
 
-## My Commitment
+## On Authority
 
-I commit to:
+As Founder, I retain authorship responsibility. I do not claim interpretive supremacy.
 
-1. **Maintaining integrity.** All sealed artifacts remain immutable. The Golden Trace ledger is non-negotiable.
+The framework is designed so that:
 
-2. **Enabling audit.** External reviewers can verify SHA-256 hashes, inspect witness determinations, and challenge governance decisions.
+* No single perspective becomes absolute.
+* Constraints apply to the author as well as the system.
+* Drift must be detectable.
 
-3. **Preserving boundaries.** Canon, WebKernel, Governance, Academic, and Public layers remain distinct. No bleed permitted.
-
-4. **Enforcing humility.** If DRACO detects ego inflation or delusion, I will address it or explain why the determination is incorrect.
-
-5. **Honoring constraints.** The PortusNexus™ postulates (N₁–N₇) are binding. If I violate them, LOGOS will flag it.
+Authority is bounded by structure.
 
 ---
 
-## What I Ask
+## Ethical Posture
 
-From academic reviewers:
-- Inspect the methods (documented at [MIT Research Node](https://mit.portussophia.com))
-- Challenge the postulates if you find logical inconsistencies
-- Propose improvements to witness cycle methodologies
+PortusSophia™ does not prescribe moral rank or impose belief.
 
-From institutional partners:
-- Evaluate the governance structure for real-world applicability
-- Test the integrity verification protocols
-- Assess boundary enforcement mechanisms
+It emphasizes:
 
-From critics and skeptics:
-- Verify the SHA-256 hashes
-- Review the Golden Trace ledger
-- Identify blind spots or failure modes
+* Non-coercion (no forced interpretive closure)
+* Non-resolution (no premature certainty)
+* Accountability (clear attribution of authorship)
+* Humility under constraint
+
+These are design disciplines, not spiritual declarations.
 
 ---
 
 ## Long-Term Intent
 
-PortusSophia™ is designed to **outlive me**.
+The long-term objective is structural durability.
 
-The integrity sealing and witness cycle structure ensures that:
-- Future stewards can continue the architecture
-- Canonical content remains immutable
-- Governance constraints remain enforced
-- No single successor can totalize the system
+If the architecture cannot scale beyond a single founder without collapsing into authority concentration or symbolic inflation, it has failed.
 
-This is not about building a legacy. It is about **creating a structure that prevents any single person (including me) from becoming absolute**.
+That question remains open.
 
 ---
 
-## Final Note
+## Closing
 
-I am not trying to convince you that PortusSophia™ is "correct" or "true."
+I offer this framework not as doctrine, but as disciplined inquiry.
 
-I am demonstrating that it is:
-- **Auditable** (verify the hashes)
-- **Constrained** (review the postulates)
-- **Governed** (inspect the witness cycles)
-- **Humble** (check the DRACO risk assessments)
+It stands or falls on coherence, constraint integrity, and practical applicability.
 
-If you find evidence of delusion, drift, or ego inflation—**show me the evidence**.
+*Here and Now!* — All claims remain context-bound and revisable.
 
-If you find logical inconsistencies in the postulates—**show me where they fail**.
+---
 
-If you find integrity violations—**show me the hash mismatch**.
+**Links**
 
-This architecture is designed to be **falsifiable**. If it fails, it should fail **visibly and verifiably**.
+* Public orientation: [https://public.portussophia.com](https://public.portussophia.com/)
+* Founder profile: [https://founder.portussophia.com](https://founder.portussophia.com/)
 
 ---
 
 **James Roy Dennis**
 Founder, PortusSophia™
-2025-12-04
-
----
-
-## See Also
-
-- [Problem Statement](./problem-statement.html) — Structural crisis being addressed
-- [Institutional Genesis](./institutional-genesis.html) — Origin narrative and significance
-- [Mission](./mission.html) — High-level mission statement
-- [MIT Research Node](https://mit.portussophia.com) — Academic documentation
