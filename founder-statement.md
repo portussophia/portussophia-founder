@@ -22,7 +22,7 @@ PortusSophia™ emerges from lived experience across military service, operation
 
 This statement preserves authorship and responsibility without elevating personality above structure.
 ---
-Origin Context
+## Origin Context
 
 **PortusSophia™** did not originate in abstraction. It emerged from repeated exposure to structural failure:
 
