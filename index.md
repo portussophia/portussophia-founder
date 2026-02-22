@@ -113,6 +113,7 @@ If you are building something that must withstand scrutiny — technical, legal,
 **Links**
 
 * Public orientation: [https://public.portussophia.com]()
+* Founder Statement: [https://founder.portussophia.com/founder-statement.html](https://founder.portussophia.com/founder-statement.html "Founder Statement")
 
 ---
 
