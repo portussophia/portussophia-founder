@@ -14,7 +14,7 @@ How can human meaning be preserved in AI-assisted systems without collapsing int
 3. Authority concentration
 4. Governance theater
 
-This is not abstract philosophy. It is a structural design problem.
+*This is not abstract philosophy. It is a structural design problem.*
 
 ---
 
@@ -24,15 +24,15 @@ This is not abstract philosophy. It is a structural design problem.
 
 AI systems can generate internally coherent narratives that gradually drift toward self-reinforcement.
 
-**Symptoms:**
+##### **Symptoms:**
 
 - Single-perspective dominance
 - Dismissal of critique
 - Unchecked escalation of claims
 - Narrative inflation
 
-**Result:**
-Systems become self-sealing and resistant to correction.
+***Result:**
+Systems become self-sealing and resistant to correction.*
 
 ---
 
@@ -40,14 +40,14 @@ Systems become self-sealing and resistant to correction.
 
 In reaction to totalization, systems may refuse stable claims altogether.
 
-**Symptoms:**
+##### **Symptoms:**
 
 - Infinite contextual deferral
 - Inability to commit to actionable conclusions
 - Collapse into relativism
 
-**Result:**
-No usable output. No decision support.
+***Result:**
+No usable output. No decision support.*
 
 ---
 
@@ -55,14 +55,14 @@ No usable output. No decision support.
 
 Human or computational authority becomes centralized.
 
-**Symptoms:**
+##### **Symptoms:**
 
 - No structured multi-perspective review
 - Corrections depend on one actor’s awareness
 - Drift accumulates silently
 
-**Result:**
-Bias and blind spots become structural.
+***Result:**
+Bias and blind spots become structural.*
 
 ---
 
@@ -70,20 +70,20 @@ Bias and blind spots become structural.
 
 Governance mechanisms are layered on top of content after influence has already expanded.
 
-**Symptoms:**
+##### **Symptoms:**
 
 - Advisory constraints instead of enforced constraints
 - Audit processes without structural teeth
 - Integrity mechanisms that are optional
 
-**Result:**
-Governance collapses under pressure.
+***Result:**
+Governance collapses under pressure.*
 
 ---
 
 ## Why Existing Approaches Struggle
 
-Common approaches attempt to solve this through:
+##### Common approaches attempt to solve this through:
 
 - Alignment training
 - Human-in-the-loop oversight
@@ -94,9 +94,9 @@ Each provides partial mitigation.
 
 None guarantees structural constraint.
 
-The central problem remains:
+**The central problem remains:**
 
-> How do we design systems where governance is not advisory, but architectural?
+> *How do we design systems where governance is not advisory, but architectural?*
 
 ---
 
@@ -122,7 +122,7 @@ Structural review, risk analysis, implementation design, and authorship are diff
 
 ### 3. Verifiable Traceability
 
-Critical artifacts are version-controlled and cryptographically hash-verifiable.
+Critical artifacts are version-controlled and cryptographically hash-verifiable in their canonical forms.
 
 Auditability is designed into the workflow rather than added post-hoc.
 
@@ -132,7 +132,7 @@ Auditability is designed into the workflow rather than added post-hoc.
 
 The framework formally rejects universal or absolute claims.
 
-All outputs are:
+##### All outputs are:
 
 - Context-bound
 - Revisable
@@ -142,9 +142,9 @@ All outputs are:
 
 ### 5. Bounded Human Authority
 
-Authorship and accountability remain human.
+*Authorship and accountability remain human.*
 
-However, structure is designed so that:
+##### However, structure is designed so that:
 
 - Review mechanisms apply to the author
 - Revision history is inspectable
@@ -161,7 +161,7 @@ Can governance-first architecture scale beyond a single founder without collapsi
 - Procedural theater
 - Constraint erosion
 
-This remains an open empirical question.
+*This remains an open empirical question.*
 
 ---
 
@@ -171,11 +171,12 @@ PortusSophia™ should be evaluated on:
 
 - Conceptual coherence
 - Structural integrity
+- Canonical traceability
 - Detectability of drift
 - Practical applicability
 - Transparency of revision
 
-Not on symbolic density.
+*Not on symbolic density or rhetorical force.*
 
 ---
 

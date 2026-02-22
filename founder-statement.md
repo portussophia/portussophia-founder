@@ -24,91 +24,91 @@ This statement preserves authorship and responsibility without elevating persona
 ---
 ## Origin Context
 
-PortusSophia™ did not originate in abstraction. It emerged from repeated exposure to structural failure:
+**PortusSophia™** did not originate in abstraction. It emerged from repeated exposure to structural failure:
 
 * Systems collapsing under pressure.
 * Authority expanding when clarity recedes.
 * Governance treated as ceremony rather than mechanism.
 * Individuals held accountable without inspectable structure.
 
-Military service taught me that standards mean nothing if they do not bind the one who enforces them. Engineering practice reinforced that constraints must precede expansion. Research clarified that drift is rarely malicious — it is structural.
+*Military service* taught me that standards mean nothing if they do not bind the one who enforces them. *Engineering* practice reinforced that constraints must precede expansion. *Research* clarified that drift is rarely malicious — it is structural.
 
-PortusSophia™ is a response to that pattern.
+##### PortusSophia™ is a response to that pattern.
 
 ---
 
 ## Foundational Commitment
 
-The framework is built on several non-negotiable commitments:
+#### The framework is built on several non-negotiable commitments:
 
 1. **Structure before assertion.** Claims must sit inside inspectable constraint.
 2. **Symmetry before authority.** Systems that evaluate must themselves be evaluable.
 3. **Governance before scale.** Mechanism must precede influence.
 4. **Audit before narrative.** Integrity must be demonstrable.
 
-These commitments are architectural, not ideological.
+*These commitments are architectural, not ideological.*
 
 ---
 
 ## Scope of Claim
 
-I claim that:
+#### I claim that:
 
 * Governance mechanisms can be structurally encoded rather than socially implied.
 * Role separation reduces blind-spot amplification in complex systems.
 * Cryptographic traceability strengthens institutional memory.
 * Constraint-first design reduces the probability of totalizing drift.
 
-I do not claim universality, infallibility, or finality.
+*I do not claim universality, infallibility, or finality.*
 
-All work remains revisable, testable, and open to critique.
+*All work remains revisable, testable, and open to critique.*
 
 ---
 
 ## On Authority
 
-As Founder, I retain authorship responsibility. I do not claim interpretive supremacy.
+*As Founder, I retain authorship responsibility. I do not claim interpretive supremacy.*
 
-The framework is designed so that:
+#### The framework is designed so that:
 
 * No single perspective becomes absolute.
 * Constraints apply to the author as well as the system.
 * Drift must be detectable.
 
-Authority is bounded by structure.
+*Authority is bounded by structure.*
 
 ---
 
 ## Ethical Posture
 
-PortusSophia™ does not prescribe moral rank or impose belief.
+#### PortusSophia™ does not prescribe moral rank or impose belief.
 
-It emphasizes:
+##### It emphasizes:
 
 * Non-coercion (no forced interpretive closure)
 * Non-resolution (no premature certainty)
 * Accountability (clear attribution of authorship)
 * Humility under constraint
 
-These are design disciplines, not spiritual declarations.
+*These are design disciplines, not spiritual declarations.*
 
 ---
 
 ## Long-Term Intent
 
-The long-term objective is structural durability.
+#### The long-term objective is structural durability and canonical integrity.
 
-If the architecture cannot scale beyond a single founder without collapsing into authority concentration or symbolic inflation, it has failed.
+If the architecture cannot scale beyond a single founder without collapsing into authority concentration or symbolic inflation, it has failed. The canon must remain inspectable, revisable, and resistant to drift.
 
-That question remains open.
+*That question remains open.*
 
 ---
 
 ## Closing
 
-I offer this framework not as doctrine, but as disciplined inquiry.
+#### I offer this framework not as doctrine, but as disciplined inquiry.
 
-It stands or falls on coherence, constraint integrity, and practical applicability.
+The canon stands or falls on coherence, constraint integrity, and practical applicability—not on rhetorical force or symbolic weight.
 
 *Here and Now!* — All claims remain context-bound and revisable.
 
@@ -122,4 +122,4 @@ It stands or falls on coherence, constraint integrity, and practical applicabili
 ---
 
 **James Roy Dennis**
-Founder, PortusSophia™
+Architecht/Founder, PortusSophia™
