@@ -10,3 +10,9 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - IMPL_SPEC_canonical_restoration.md
+
+header_pages:
+  - index.md
+  - founder-statement.md
+  - problem-statement.md
