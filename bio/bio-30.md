@@ -6,4 +6,4 @@ layout: page
 show_header: true
 permalink: /bio/30/
 ---
-James Roy Dennis architects governance-first systems and meaning under constraint. Creator of PortusSophia™, he develops CQAA™ and the Architectural Symmetry Standard, offered for free use.
+James Roy Dennis architects governance-first systems and meaning under constraint. Creator of **PortusSophia™**, he develops **CQAA™** and the **Architectural Symmetry Standard**, offered for free use.
