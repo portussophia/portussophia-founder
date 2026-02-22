@@ -14,5 +14,6 @@ exclude:
 
 header_pages:
   - index.md
+  - bio/bio-300.md
   - founder-statement.md
   - problem-statement.md
