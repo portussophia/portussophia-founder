@@ -21,7 +21,9 @@ I have paid a lot of attention — which, in my personal opinion, is the least r
 
 Having spent ample time describing my posture, intent, and motivations, I find myself right back at the beginning:
 
-“At this moment,  **Here and Now!** , a tension rises within me.”
+“At this moment,  **here and now** —distinct from  **Here and Now!** —a tension rises within me...
+
+Keep the gap, the distinction alive. Distinctions can provide meaning and choice is a gift.
 
 ## The Structural Crisis PortusSophia™ Addresses
 
