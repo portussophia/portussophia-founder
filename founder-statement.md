@@ -1,5 +1,6 @@
 ---
-## title: "PortusSophia™ Founder’s Statement"
+---
+title: "PortusSophia™ Founder’s Statement"
 uid: "PS-CAN-FS-001_FounderStatement_PublicAligned_v2"
 cycle: "Canon"
 version: "v2.0"
@@ -7,33 +8,40 @@ language: "en"
 author: "James Roy Dennis — Founder"
 classification: "Canon (Public-Aligned)"
 distribution: "Public"
-controlled_lexical_element: " *"Here and Now!"* "
+controlled_lexical_element: "*Here and Now!*"
 
-# PortusSophia™ Founder’s Statement
+public_orientation:
+  motto: "**Love, Faith and Joy** — *Here and Now!*"
+  url: "https://public.portussophia.com"
 
-## Identity
+distributed_research:
+  - label: "ORCID"
+    url: "https://orcid.org/0009-0000-6689-8763"
+  - label: "SSRN Author Page"
+    url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792"
 
-I am James Roy Dennis — soldier, systems thinker, engineer by discipline, and published independent researcher.
+identity_note: "This statement preserves authorship and responsibility without elevating personality above structure."
+---
 
-PortusSophia™ emerges from lived experience across military service, operational leadership, technical systems design, and independent research into governance and epistemic constraint.
-
-**Public orientation:** [https://public.portussophia.com](https://public.portussophia.com/)
-**Founder profile:** [https://founder.portussophia.com](https://founder.portussophia.com/)
-
-This statement preserves authorship and responsibility without elevating personality above structure.
 ---
 ## Origin Context
 
-**PortusSophia™** did not originate in abstraction. It emerged from repeated exposure to structural failure:
+**This is inspired and made possible by way of:**
+
+*Faith and Belief gifted to me by another trusting that I would give it my best effort and trusting I wouldn't  forget where the faith and belief were derived.
+
+**This has manifested by way of repeated exposure to structural failure:**
 
 * Systems collapsing under pressure.
 * Authority expanding when clarity recedes.
 * Governance treated as ceremony rather than mechanism.
 * Individuals held accountable without inspectable structure.
 
-*Military service* taught me that standards mean nothing if they do not bind the one who enforces them. *Engineering* practice reinforced that constraints must precede expansion. *Research* clarified that drift is rarely malicious — it is structural.
+**This was made possible by way of a toolset:**
 
-##### PortusSophia™ is a response to that pattern.
+Military service* taught me that standards mean nothing if they do not bind the one who enforces them. *Engineering* practice reinforced that constraints must precede expansion. *Research* clarified that drift is rarely malicious — it is structural.
+
+##### PortusSophia™ is a response to these patterns.
 
 ---
 
