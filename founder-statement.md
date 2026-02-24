@@ -1,5 +1,4 @@
 ---
----
 title: "PortusSophia™ Founder’s Statement"
 uid: "PS-CAN-FS-001_FounderStatement_PublicAligned_v2"
 cycle: "Canon"
@@ -15,15 +14,19 @@ public_orientation:
   url: "https://public.portussophia.com"
 
 distributed_research:
-  - label: "ORCID"
-    url: "https://orcid.org/0009-0000-6689-8763"
-  - label: "SSRN Author Page"
-    url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792"
+
+- label: "ORCID"
+  url: "https://orcid.org/0009-0000-6689-8763"
+- label: "SSRN Author Page"
+  url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792"
 
 identity_note: "This statement preserves authorship and responsibility without elevating personality above structure."
+----------------------------------------------------------------------------------------------------------------------
+
 ---
 
 ---
+
 ## Origin Context
 
 **This is inspired and made possible by way of:**
