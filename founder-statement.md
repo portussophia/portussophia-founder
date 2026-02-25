@@ -20,9 +20,8 @@ distributed_research:
 - label: "SSRN Author Page"
   url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792"
 
-identity_note: "This statement preserves authorship and responsibility without elevating personality above structure."
-----------------------------------------------------------------------------------------------------------------------
-
+identity_note: "This statement preserves authorship and responsibility without elevating personality above structure. **James Roy Dennis** is a founder and published researcher developing  **PortusSophia™** : a versioned canon of research methods and artifacts designed to preserve integrity under constraint."
+-------------------------------------------------------------------------------------------------------------------
 ---
 
 ---
