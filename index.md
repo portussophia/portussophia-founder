@@ -27,14 +27,18 @@ This page presents my professional identity, capabilities, and collaboration foc
 
 ## Professional Focus
 
-I specialize in stabilizing complex systems where:
+**James Roy Dennis** is a Published Researcher, Non-Affiliated Academic Scholar and Systems Architect whose work develops governance-aware, constraint-based frameworks that remain coherent under pressure.
+
+PortusSophia™ integrates three architectural primitives: **PortusStructura™** (formal system structure and ontological constraints), **PortusEthica™** (constraint-bearing cost and responsibility), and **PortusLumen™** (epistemic clarity under bounded conditions). These are not metaphors—they are load-bearing governance elements.
+
+His work specializes in stabilizing complex systems where:
 
 - Authority structures are unclear
 - Risk exposure is non-trivial
 - Stakeholders operate with conflicting incentives
 - Structural drift threatens integrity
 
-My work centers on making systems:
+The work centers on making systems:
 
 - Inspectable
 - Constraint-aware
