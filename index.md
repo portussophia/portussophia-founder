@@ -6,119 +6,76 @@ layout: page
 show_header: false
 permalink: /
 ---
-# James Roy Dennis
 
-### Published Researcher • Independent Scholar • Systems Architect
+**James Roy Dennis — Founder of PortusSophia™**
 
-I design governance-aware systems that remain coherent under pressure.
+James Roy Dennis is a published researcher, independent scholar, and systems architect whose work examines how structure, consequence, and judgment remain legible under constraint.
 
-For over three decades, my work has lived at the intersection of:
+For more than three decades, his work has lived at the intersection of systems architecture, governance and risk modeling, human-centered structural design, and high-friction, high-stakes environments.
 
-- Systems architecture
-- Governance and risk modeling
-- Human-centered structural design
-- High-friction, high-stakes environments
+PortusSophia™ is the research expression of that trajectory: a methodical inquiry into how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds without prescribing belief, authority, hierarchy, or outcome.
 
-PortusSophia™ is the research expression of that trajectory — an independent framework exploring governance-first design in AI-assisted systems.
+This page presents James Roy Dennis's professional identity, public research posture, and collaboration focus.
 
-This page presents my professional identity, capabilities, and collaboration focus.
+**Professional Focus**
 
----
+James Roy Dennis develops bounded research and architectural frameworks concerned with coherence, constraint, interpretation, and responsibility under pressure.
 
-## Professional Focus
+His work is especially relevant where:
 
-**James Roy Dennis** is a Published Researcher, Non-Affiliated Academic Scholar and Systems Architect whose work develops governance-aware, constraint-based frameworks that remain coherent under pressure.
+- structural drift threatens integrity
+- stakeholders operate with conflicting incentives
+- responsibility and consequence are difficult to localize
+- systems must remain inspectable without collapsing into authority claims
 
-PortusSophia™ integrates three architectural primitives: **PortusStructura™** (formal system structure and ontological constraints), **PortusEthica™** (constraint-bearing cost and responsibility), and **PortusLumen™** (epistemic clarity under bounded conditions). These are not metaphors—they are load-bearing governance elements.
+He works across research, systems architecture, and ethical/technical consulting. A Maryland LLC registration for PortusSophia is currently pending review.
 
-His work specializes in stabilizing complex systems where:
+**Research and Framework**
 
-- Authority structures are unclear
-- Risk exposure is non-trivial
-- Stakeholders operate with conflicting incentives
-- Structural drift threatens integrity
+PortusSophia™ provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive. PortusSophia™ makes no universal claims.
 
-The work centers on making systems:
+Its public-facing work includes research papers, framework documents, and bounded architectural language intended to preserve legibility without demanding deference.
 
-- Inspectable
-- Constraint-aware
-- Symmetrical under evaluation
-- Resilient to single-point-of-authority failure
+**Core Capabilities**
 
----
+- Systems architecture and structural design
+- Governance and constraint modeling
+- Risk and drift analysis
+- Cross-domain translation
+- Boundary definition and role separation
+- High-pressure decision stabilization
 
-## Selected Research & Architecture Work
+James Roy Dennis specializes in translating ambiguous problems into inspectable structure.
 
-### Governance-First Architecture (PortusSophia™)
+**Selected Public Records**
 
-An independent research initiative exploring how structured constraints, role separation, and cryptographic traceability can preserve human meaning in AI-assisted environments.
+- [Public Orientation](https://public.portussophia.com)
+- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
+- [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
 
-### Architectural Symmetry Modeling
+**How He Works**
 
-Development of symmetry-based governance concepts designed to ensure that systems which evaluate others remain equally evaluable themselves.
+- boundary before growth
+- clarity before inflation
+- structure before overclaim
+- humans before abstractions
 
-### Multi-Layer Ecosystem Design
+He is not interested in spectacle. He is interested in structures that remain coherent when tested.
 
-Designed and implemented a boundary-enforced multi-site topology separating:
-
-- Public orientation
-- Academic research
-- Governance artifacts
-- Professional identity
-
-The goal: prevent drift, protect audience context, and maintain structural clarity.
-
----
-
-## Core Capabilities
-
-- Systems Architecture & Structural Design
-- Governance & Constraint Modeling
-- Risk & Drift Analysis
-- Cross-Domain Translation
-- Boundary Definition & Role Separation
-- High-Pressure Decision Stabilization
-
-I translate ambiguous problems into inspectable architecture.
-
----
-
-## Academic Research
-
-* ORCID: [https://orcid.org/0009-0000-6689-8763]()
-* SSRN Author Page: [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792]()
-* DOI (Schema Epistemics): [http://dx.doi.org/10.2139/ssrn.5945995]()
-
----
-
-## How I Work
-
-- Boundary before growth
-- Symmetry before power
-- Humans before abstractions
-
-I am not interested in spectacle.
-I am interested in structures that remain coherent when tested.
-
----
-
-## Collaboration & Consulting
+**Collaboration and Consulting**
 
 Available for:
 
-- Architecture & governance consulting
-- Structural risk assessment
+- architecture and governance consulting
+- structural risk assessment
 - AI-system constraint modeling
-- Advisory roles in complex system design
-- Research collaboration
+- advisory roles in complex system design
+- research collaboration
 
-If you are building something that must withstand scrutiny — technical, legal, or human — we should talk.
+If you are building something that must withstand scrutiny — technical, legal, institutional, or human — there is room for conversation.
 
-**Links**
+**Boundary**
 
-* Public orientation: [https://public.portussophia.com]()
-* Founder Statement: [https://founder.portussophia.com/founder-statement.html](https://founder.portussophia.com/founder-statement.html "Founder Statement")
+This page presents a founder identity and research posture. It is not a claim to institutional authority, doctrinal status, or completed certainty.
 
----
-
-*Here and Now!* — a reminder that all claims are context-bound and revisable.
+**James Roy Dennis** — Founder of PortusSophia™
