@@ -9,7 +9,7 @@ permalink: /
 
 **James Roy Dennis — Founder of PortusSophia™**
 
-James Roy Dennis is a published researcher, independent scholar, and systems architect whose work examines how structure, consequence, and judgment remain legible under constraint.
+James Roy Dennis is a published researcher, non-normative scholar, and systems architect whose work examines how structure, consequence, and judgment remain legible under constraint.
 
 For more than three decades, his work has lived at the intersection of systems architecture, governance and risk modeling, human-centered structural design, and high-friction, high-stakes environments.
 
@@ -64,15 +64,11 @@ He is not interested in spectacle. He is interested in structures that remain co
 
 **Collaboration and Consulting**
 
-Available for:
+**Research Collaboration:** Academic collaboration, joint research initiatives, or institutional inquiry: research@portussophia.com
 
-- architecture and governance consulting
-- structural risk assessment
-- AI-system constraint modeling
-- advisory roles in complex system design
-- research collaboration
+**Aligned Consulting:** Selective consulting available in healthcare interoperability, governance-aware system design, and constraint modeling under conditions of high complexity. Inquiries: contact@portussophia.com
 
-If you are building something that must withstand scrutiny — technical, legal, institutional, or human — there is room for conversation.
+PortusSophia™ operates with bounded capacity and selective engagement. All work maintains the non-authoritative, responsibility-preserving posture documented throughout the public orientation.
 
 **Boundary**
 
