@@ -6,29 +6,26 @@ layout: page
 show_header: true
 permalink: /
 ---
-
 **James Roy Dennis — Founder of PortusSophia™**
 
-James Roy Dennis is a published researcher, non-normative scholar, and systems architect whose work examines how structure, consequence, and judgment remain legible under constraint.
+Published researcher, non-normative scholar, and systems architect whose work examines how structure, consequence, and judgment remain legible under constraint.
 
 For more than three decades, his work has lived at the intersection of systems architecture, governance and risk modeling, human-centered structural design, and high-friction, high-stakes environments.
 
 PortusSophia™ is the research expression of that trajectory: a methodical inquiry into how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds without prescribing belief, authority, hierarchy, or outcome.
 
-This page presents James Roy Dennis's professional identity, public research posture, and collaboration focus.
-
 **Professional Focus**
 
-James Roy Dennis develops bounded research and architectural frameworks concerned with coherence, constraint, interpretation, and responsibility under pressure.
+Bounded research and architectural frameworks concerned with coherence, constraint, interpretation, and responsibility under pressure.
 
-His work is especially relevant where:
+Work is especially relevant where:
 
 - structural drift threatens integrity
 - stakeholders operate with conflicting incentives
 - responsibility and consequence are difficult to localize
 - systems must remain inspectable without collapsing into authority claims
 
-He works across research, systems architecture, and ethical/technical consulting. PortusSophia, LLC is registered in the state of Maryland.
+PortusSophia, LLC is registered in the state of Maryland.
 
 **Research and Framework**
 
@@ -45,22 +42,13 @@ Its public-facing work includes research papers, framework documents, and bounde
 - Boundary definition and role separation
 - High-pressure decision stabilization
 
-James Roy Dennis specializes in translating ambiguous problems into inspectable structure.
+Specializing in translating ambiguous problems into inspectable structure.
 
 **Selected Public Records**
 
 - [Public Orientation](https://public.portussophia.com)
 - [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
 - [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
-
-**How He Works**
-
-- boundary before growth
-- clarity before inflation
-- structure before overclaim
-- humans before abstractions
-
-He is not interested in spectacle. He is interested in structures that remain coherent when tested.
 
 **Collaboration and Consulting**
 
