@@ -28,7 +28,7 @@ His work is especially relevant where:
 - responsibility and consequence are difficult to localize
 - systems must remain inspectable without collapsing into authority claims
 
-He works across research, systems architecture, and ethical/technical consulting. A Maryland LLC registration for PortusSophia is currently pending review.
+He works across research, systems architecture, and ethical/technical consulting. PortusSophia, LLC is registered in the state of Maryland.
 
 **Research and Framework**
 
@@ -64,9 +64,9 @@ He is not interested in spectacle. He is interested in structures that remain co
 
 **Collaboration and Consulting**
 
-**Research Collaboration:** Academic collaboration, joint research initiatives, or institutional inquiry: research@portussophia.com
+**Research Collaboration:** Academic collaboration, joint research initiatives, or institutional inquiry: [research@portussophia.com](mailto:research@portussophia.com)
 
-**Aligned Consulting:** Selective consulting available in healthcare interoperability, governance-aware system design, and constraint modeling under conditions of high complexity. Inquiries: contact@portussophia.com
+**Aligned Consulting:** Selective consulting available in healthcare interoperability, governance-aware system design, and constraint modeling under conditions of high complexity. Inquiries: [contact@portussophia.com](mailto:contact@portussophia.com)
 
 PortusSophia™ operates with bounded capacity and selective engagement. All work maintains the non-authoritative, responsibility-preserving posture documented throughout the public orientation.
 
