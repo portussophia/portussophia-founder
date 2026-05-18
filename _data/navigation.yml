@@ -1,0 +1,10 @@
+- title: Home
+  url: /
+
+- title: ORCID Public Record
+  url: https://orcid.org/0009-0000-6689-8763
+  external: true
+
+- title: SSRN Author Page
+  url: https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792
+  external: true

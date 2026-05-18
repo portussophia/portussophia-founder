@@ -3,7 +3,7 @@ title: "Founder"
 nav_title: "Founder"
 site_title: "PortusSophia™"
 layout: page
-show_header: false
+show_header: true
 permalink: /
 ---
 
