@@ -6,60 +6,138 @@ layout: page
 show_header: true
 permalink: /
 ---
-**James Roy Dennis — Founder of PortusSophia™**
 
-Published researcher, non-normative scholar, and systems architect whose work examines how structure, consequence, and judgment remain legible under constraint.
+ # Founder
 
-For more than three decades, his work has lived at the intersection of systems architecture, governance and risk modeling, human-centered structural design, and high-friction, high-stakes environments.
+# James Roy Dennis
 
-PortusSophia™ is the research expression of that trajectory: a methodical inquiry into how costs tend to move downstream across localized and complex manifestations, and what conditions appear to precede that movement. It proceeds without prescribing belief, authority, hierarchy, or outcome.
+**Founder and Owner, PortusSophia, LLC**
 
-**Professional Focus**
+James Roy Dennis is the Founder and Owner of PortusSophia, LLC, a Maryland-based research and consulting organization. He is a published researcher, author of *A Field Guide to Epistemic Failure*, and creator of PortusSophia™, a framework examining how structure, consequence, and judgment remain legible under constraint.
 
-Bounded research and architectural frameworks concerned with coherence, constraint, interpretation, and responsibility under pressure.
+For more than three decades, his work has lived at the intersection of systems architecture, software engineering, governance, organizational design, healthcare interoperability, and high-stakes operational environments where responsibility, consequence, and decision-making remain difficult to localize.
+
+PortusSophia™ is the research expression of that trajectory: a methodical inquiry into how costs, constraints, interpretations, and consequences move through systems over time. The work proceeds descriptively rather than prescriptively and seeks to preserve legibility without demanding deference, ideology, hierarchy, or authority.
+
+---
+
+## Research Profiles & Public Records
+
+Independent verification of research, publications, and professional activity.
+
+- ORCID Public Record
+- SSRN Author Page
+- ResearchGate Profile
+- Lens Scholar Profile
+
+---
+
+## Publications
+
+### *A Field Guide to Epistemic Failure* (2026)
+
+*A Field Guide to Epistemic Failure* provides a practical taxonomy for identifying recurring patterns of knowledge failure across institutions, organizations, technical systems, and human environments.
+
+The work introduces a descriptive vocabulary for recognizing structural breakdowns that often remain difficult to articulate despite being widely experienced.
+
+**Book:** https://leanpub.com/afieldguidetoepistemicfailure
+
+### Additional Research
+
+Research papers, framework documents, whitepapers, and working papers are available through the public research profiles listed above.
+
+---
+
+## Professional Focus
+
+Bounded research and architectural frameworks concerned with:
+
+- Coherence under constraint
+- Governance and accountability
+- Structural drift and failure modes
+- Interpretation and consequence
+- Boundary definition and role separation
+- Responsibility preservation in complex systems
+- Cross-domain translation of ambiguous problems
 
 Work is especially relevant where:
 
-- structural drift threatens integrity
-- stakeholders operate with conflicting incentives
-- responsibility and consequence are difficult to localize
-- systems must remain inspectable without collapsing into authority claims
+- Structural drift threatens integrity
+- Stakeholders operate with conflicting incentives
+- Responsibility and consequence are difficult to localize
+- Systems must remain inspectable without collapsing into authority claims
+- Complexity obscures decision-making and accountability
 
-PortusSophia, LLC is registered in the state of Maryland.
+---
 
-**Research and Framework**
+## Research & Framework Development
 
-PortusSophia™ provides axioms, postulates, and capacity statements describing patterns observed across work performed within PortusSophia™. These are descriptive, not prescriptive. PortusSophia™ makes no universal claims.
+PortusSophia™ provides axioms, postulates, capacity statements, and bounded architectural language describing patterns observed through ongoing research and investigation.
 
-Its public-facing work includes research papers, framework documents, and bounded architectural language intended to preserve legibility without demanding deference.
+These materials are descriptive rather than prescriptive.
 
-**Core Capabilities**
+PortusSophia™ makes no claim to universal authority, institutional status, doctrinal certainty, or exclusive expertise. Its purpose is to provide language, structure, and conceptual tools that help preserve legibility where complexity, ambiguity, and consequence intersect.
+
+Public-facing work includes:
+
+- Research papers
+- Framework documents
+- Whitepapers
+- Diagnostic taxonomies
+- Governance-oriented conceptual models
+
+---
+
+## Core Capabilities
 
 - Systems architecture and structural design
 - Governance and constraint modeling
 - Risk and drift analysis
+- Healthcare interoperability
 - Cross-domain translation
 - Boundary definition and role separation
 - High-pressure decision stabilization
+- Organizational and technical systems analysis
 
 Specializing in translating ambiguous problems into inspectable structure.
 
-**Selected Public Records**
+---
 
-- [Public Orientation](https://public.portussophia.com)
-- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
-- [SSRN Author Page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
+## Collaboration & Consulting
 
-**Collaboration and Consulting**
+### Research Collaboration
 
-**Research Collaboration:** Academic collaboration, joint research initiatives, or institutional inquiry: [research@portussophia.com](mailto:research@portussophia.com)
+Academic collaboration, institutional inquiry, interdisciplinary research, framework review, and research discussion.
 
-**Aligned Consulting:** Selective consulting available in healthcare interoperability, governance-aware system design, and constraint modeling under conditions of high complexity. Inquiries: [contact@portussophia.com](mailto:contact@portussophia.com)
+**research@portussophia.com**
 
-PortusSophia™ operates with bounded capacity and selective engagement. All work maintains the non-authoritative, responsibility-preserving posture documented throughout the public orientation.
+### Consulting
 
-**Boundary**
+Selective consulting engagements are available in:
 
-This page presents a founder identity and research posture. It is not a claim to institutional authority, doctrinal status, or completed certainty.
+- Governance-aware system design
+- Healthcare interoperability
+- Systems architecture
+- Constraint and risk modeling
+- Organizational structure and accountability
 
-**James Roy Dennis** — Founder of PortusSophia™
+**contact@portussophia.com**
+
+PortusSophia, LLC operates with bounded capacity and selective engagement. Work is accepted only where scope, responsibility, and expectations remain clearly defined.
+
+---
+
+## Boundary
+
+This page presents a founder identity, professional background, and research posture.
+
+It is not a claim to institutional authority, doctrinal status, completed certainty, or exclusive expertise.
+
+Its purpose is to identify the individual responsible for founding PortusSophia, LLC and developing PortusSophia™, while preserving the distinction between author, organization, and framework.
+
+---
+
+**James Roy Dennis**  
+Founder and Owner, PortusSophia, LLC
+
+Professional identity, published work, and institutional origin of PortusSophia™.
