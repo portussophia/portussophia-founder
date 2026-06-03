@@ -107,7 +107,7 @@ Specializing in translating ambiguous problems into inspectable structure.
 
 Academic collaboration, institutional inquiry, interdisciplinary research, framework review, and research discussion.
 
-**research@portussophia.com**
+[research@portussophia.com](mailto:research@portussophia.com)
 
 ### Consulting
 
@@ -119,7 +119,7 @@ Selective consulting engagements are available in:
 - Constraint and risk modeling
 - Organizational structure and accountability
 
-**contact@portussophia.com**
+[contact@portussophia.com](mailto:contact@portussophia.com)
 
 PortusSophia, LLC operates with bounded capacity and selective engagement. Work is accepted only where scope, responsibility, and expectations remain clearly defined.
 
