@@ -7,8 +7,6 @@ show_header: true
 permalink: /
 ---
 
- # Founder
-
 # James Roy Dennis
 
 **Founder and Owner, PortusSophia, LLC**
