@@ -40,7 +40,7 @@ Independent verification of research, publications, and professional activity.
 
 The work introduces a descriptive vocabulary for recognizing structural breakdowns that often remain difficult to articulate despite being widely experienced.
 
-**Book:** https://leanpub.com/afieldguidetoepistemicfailure
+**Book:** [https://leanpub.com/afieldguidetoepistemicfailure](https://leanpub.com/afieldguidetoepistemicfailure)
 
 ### Additional Research
 
