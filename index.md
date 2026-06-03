@@ -25,10 +25,10 @@ PortusSophia™ is the research expression of that trajectory: a methodical inqu
 
 Independent verification of research, publications, and professional activity.
 
-- ORCID Public Record
-- SSRN Author Page
-- ResearchGate Profile
-- Lens Scholar Profile
+- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
+- [SSRN Author Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
+- [ResearchGate Profile](https://www.researchgate.net/profile/James-Dennis-17)
+- [Lens Scholar Profile](https://www.lens.org/lens/profile/697110263/scholar)
 
 ---
 
