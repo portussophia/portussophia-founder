@@ -1,2 +1,8 @@
 # Temporary status reports
 temp_git_status_report.txt
+
+## Local Jekyll preview
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
