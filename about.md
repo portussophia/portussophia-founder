@@ -9,7 +9,7 @@ permalink: /about/
 
 This site is the immediate professional portfolio of **James Roy Dennis**. It owns his biography, Founder origination, inquiry mode, applied lineage, selected work, human and creative provenance, and Founder-facing ways to engage.
 
-[public.portussophia.com](https://public.portussophia.com) remains canonical for the complete PortusSophia™ definition, governing declaration and programme disciplines, field architecture, research catalogue, programme publications and provenance, and artifact standing.
+[PortusSophia™](https://public.portussophia.com) remains canonical for the complete PortusSophia™ definition, governing declaration and programme disciplines, field architecture, research catalogue, programme publications and provenance, and artifact standing.
 
 Brief orientation may appear on both surfaces. Complete programme ownership does not.
 
