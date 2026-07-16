@@ -9,11 +9,11 @@ permalink: /bio/
 
 <div class="bio-intro">
   <figure class="portrait-frame">
-    <img src="{{ '/assets/images/james-roy-dennis.jpg' | relative_url }}" width="761" height="990" alt="Portrait of James Roy Dennis">
+    <img src="{{ '/assets/img/james-roy-dennis.jpg' | relative_url }}" width="381" height="497" alt="Portrait of James Roy Dennis">
   </figure>
 
   <div markdown="1">
-**James Roy Dennis** is an Independent Researcher, Independent Scholar, and Author; Founder of PortusSophia, LLC; and Architect of PortusSophia™. His research develops governance-aware, constraint-based frameworks for AI-assisted and high-stakes environments. The work integrates epistemic, ethical, and structural analysis as architectural constraints rather than after-the-fact commentary.
+**James Roy Dennis** is an Independent Researcher, Independent Scholar, and Author; Founder of PortusSophia, LLC, registered in Maryland; and Architect of PortusSophia™. His research develops governance-aware, constraint-based frameworks for AI-assisted and high-stakes environments. The work integrates epistemic, ethical, and structural analysis as architectural constraints rather than after-the-fact commentary.
 
 PortusSophia™ addresses a recurring failure in human systems: moving from *what is* toward *what ought to be* without distortion, coercion, or drift. It is not a belief system and does not claim truth or universal authority. It offers structure, boundaries, and governance primitives intended to keep meaning legible under pressure.
 

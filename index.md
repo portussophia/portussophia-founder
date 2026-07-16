@@ -1,26 +1,28 @@
 ---
 title: "James Roy Dennis"
-description: "Independent Researcher, Independent Scholar, Author, and Founder of PortusSophia™."
+description: "Independent Researcher, Independent Scholar, Author, Founder of PortusSophia, LLC, and Architect of PortusSophia™."
 layout: home
 show_header: false
 permalink: /
 ---
-<section class="home-hero shell" aria-labelledby="founder-name">
-  <figure class="portrait-frame">
-    <img src="{{ '/assets/images/james-roy-dennis.jpg' | relative_url }}" width="761" height="990" alt="Portrait of James Roy Dennis">
-  </figure>
+<section class="home-hero-band" aria-labelledby="founder-name">
+  <div class="home-hero shell">
+    <figure class="portrait-frame">
+      <img src="{{ '/assets/img/james-roy-dennis.jpg' | relative_url }}" width="381" height="497" alt="Portrait of James Roy Dennis">
+    </figure>
 
-  <div class="hero-copy">
-    <p class="eyebrow">Founder and professional portfolio</p>
-    <h1 id="founder-name">James Roy Dennis</h1>
-    <p class="identity-lines">
-      <span>Independent Researcher · Independent Scholar · Author</span>
-      <span>Founder, PortusSophia, LLC · Architect of PortusSophia™</span>
-    </p>
-    <p class="lede">I trace how decisions, assumptions, distinctions, and failures move across interfaces—especially where a visible breakdown conceals the condition that made it possible.</p>
-    <div class="hero-actions">
-      <a class="button-link" href="{{ '/inquiry/' | relative_url }}">Enter the inquiry</a>
-      <a class="button-link secondary" href="{{ '/bio/' | relative_url }}">Read the biography</a>
+    <div class="hero-copy">
+      <p class="eyebrow">Founder and professional portfolio</p>
+      <h1 id="founder-name">James Roy Dennis</h1>
+      <p class="identity-lines">
+        <span>Independent Researcher · Independent Scholar · Author</span>
+        <span>Founder, PortusSophia, LLC (Maryland) · Architect of PortusSophia™</span>
+      </p>
+      <p class="lede">I trace how decisions, assumptions, distinctions, and failures move across interfaces—especially where a visible breakdown conceals the condition that made it possible.</p>
+      <div class="hero-actions">
+        <a class="button-link" href="{{ '/inquiry/' | relative_url }}">Enter the inquiry</a>
+        <a class="button-link secondary" href="{{ '/bio/' | relative_url }}">Read the biography</a>
+      </div>
     </div>
   </div>
 </section>
@@ -81,6 +83,5 @@ permalink: /
     <p class="section-label">Programme boundary</p>
     <h2 id="programme-heading">The complete programme record lives elsewhere</h2>
     <p>Definitions, field architecture, programme governance, the full research catalogue, provenance, and artifact standing remain canonical at <a href="https://public.portussophia.com">public.portussophia.com</a>.</p>
-    <p class="return">Here and Now!</p>
   </div>
 </section>

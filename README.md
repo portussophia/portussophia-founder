@@ -12,6 +12,19 @@ Orientation may overlap. Complete programme ownership must not.
 
 The governing portfolio and brand workbooks are private source material and must not be committed to this public repository.
 
+## Local preview on Windows
+
+Use Ruby 3.3 with the RubyInstaller Devkit and its MSYS2/MINGW development toolchain. Conda Ruby is not used because Jekyll's native gem extensions require the Windows development toolchain.
+
+From the repository root:
+
+```bat
+bundle install
+bundle exec jekyll serve --host 127.0.0.1 --port 4000 --no-watch
+```
+
+Open `http://127.0.0.1:4000/` while the command remains running.
+
 ## Navigation and routes
 
 `_data/navigation.yml` is the sole primary-navigation source.
@@ -21,6 +34,7 @@ The governing portfolio and brand workbooks are private source material and must
 - `/bio/30/`, `/bio/120/`, `/bio/300/` — protected biography variants
 - `/inquiry/` — Founder inquiry mode, origination, and stewardship
 - `/work/` — curated selected work
+- `/work/ten-old-ghosts/` — preferred long-form reading experience for the speculative dialogue *Ten Old Ghosts, One Very Long Dinner*
 - `/lineage/` — applied professional lineage
 - `/engage/` — bounded ways to engage
 
@@ -29,6 +43,7 @@ The governing portfolio and brand workbooks are private source material and must
 - `/founder-statement/` is retained as a non-primary route. Its malformed front matter and attribution language were corrected; the page now states Founder responsibility, bounded AI contribution, authority limits, and the programme-surface boundary.
 - `/about/` is retained as a non-primary boundary note and now explains the intentional separation between Founder and programme surfaces.
 - The former homepage publication catalogue, capabilities list, and consulting sections are superseded by the focused Home, Selected Work, Applied Lineage, and Engage routes. Git history preserves the earlier copy.
+- The portrait at `assets/images/james-roy-dennis.jpg` is superseded by the Founder-provided replacement at `assets/img/james-roy-dennis.jpg`; live portrait references use the replacement without alteration. The Founder-provided PortusSophia programme mark is used only within the programme-related long-form dinner reading experience, not as a Founder logo or masthead identity.
 - The `/bio/30/`, `/bio/120/`, and `/bio/300/` routes and short/medium/long functions remain stable. Their copy is harmonized to the canonically approved professional title; `/bio/` is the canonical hub sourced from the established long biography.
 - `problem-statement.md` is intentionally absent. No universal problem statement is supplied on behalf of a visitor; each person or institution declares the problem they believe they are carrying. The stale navigation reference was removed rather than replaced.
 

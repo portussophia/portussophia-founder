@@ -33,6 +33,7 @@ permalink: /work/
     <p class="standing">Public-facing speculative dialogue</p>
     <h2><em>Here and Now! Ten Old Ghosts, One Very Long Dinner</em></h2>
     <p>A work of disciplined play, historical imagination, humor, and non-forced closure. It does not claim endorsement from the historical figures it depicts. It shows how serious inquiry can remain recognizably human without converting warmth into proof.</p>
+    <p><a href="{{ '/work/ten-old-ghosts/' | relative_url }}">Read the full speculative dialogue</a></p>
   </article>
 </div>
 

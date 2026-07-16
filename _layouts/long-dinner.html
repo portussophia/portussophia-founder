@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="dinner-story">
+  <div class="dinner-header-band">
+    <header class="dinner-header shell">
+      <img class="programme-mark" src="{{ '/assets/img/portussophia-logo_icon_v1.2.png' | relative_url }}" width="391" height="360" alt="PortusSophia programme mark">
+      <p class="dinner-series"><em>Here and Now!</em></p>
+      <h1>{{ page.title | escape }}</h1>
+      {% if page.intro %}<p class="dinner-intro">{{ page.intro | escape }}</p>{% endif %}
+    </header>
+  </div>
+  <div class="dinner-content shell">
+    {{ content }}
+  </div>
+</article>

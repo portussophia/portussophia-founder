@@ -7,7 +7,7 @@ layout: page
 permalink: /engage/
 ---
 
-James is not seeking employment with another company. The work already exists. The relevant question is whether a bounded relationship can be formed around a declared inquiry, audience, or institutional need while preserving clear ownership, responsibility, and limits.
+*Here and Now!* Where orientation, restraint, and discipline form the posture from which inquiry proceeds.
 
 <div class="engagement-grid">
   <article class="engagement-card">

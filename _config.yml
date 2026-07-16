@@ -1,5 +1,5 @@
 title: "James Roy Dennis"
-description: "Independent Researcher, Independent Scholar, Author, and Founder of PortusSophia™."
+description: "Independent Researcher, Independent Scholar, Author, Founder of PortusSophia, LLC, and Architect of PortusSophia™."
 url: "https://founder.portussophia.com"
 theme: minima
 
@@ -14,3 +14,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - IMPL_SPEC_canonical_restoration.md
+  - tmp
