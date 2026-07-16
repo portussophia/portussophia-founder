@@ -7,8 +7,6 @@ layout: page
 permalink: /lineage/
 ---
 
-This is not an employment chronology and it is not offered as proof that the philosophical claims are correct. It is the provenance of an inquiry shaped by repeated contact with systems that failed to carry meaning, context, responsibility, and prior knowledge across interfaces.
-
 <div class="lineage-grid">
   <article class="lineage-card">
     <h2>Technical service and leadership</h2>
@@ -50,9 +48,3 @@ This is not an employment chronology and it is not offered as proof that the phi
     <p>Earlier human-directed AI development used modular roles, test-first iteration, reproducible environments, and repeated correction. It is an inspectable technical and methodological predecessor—not, by itself, the later PortusSophia field architecture.</p>
   </article>
 </div>
-
-## Continuity without proof by employment
-
-Earlier work did not contain every later concept in finished form, and an employer's name does not certify a philosophical result. The continuity lies in a recurring mode of operation: stabilize fragile systems; trace the upstream condition; expose hidden assumptions; translate across human and technical interfaces; make knowledge transferable; and preserve responsibility where consequence is difficult to localize.
-
-PortusSophia formalizes and extends that configuration through new distinctions, methods, conduct conditions, research objects, and a Founder-designed stewardship architecture.
