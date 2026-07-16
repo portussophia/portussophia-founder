@@ -352,8 +352,7 @@ blockquote {
   background: var(--navy);
 }
 
-.home-hero-band h1,
-.home-hero-band .identity-lines {
+.home-hero-band h1 {
   color: var(--parchment);
 }
 
@@ -396,18 +395,6 @@ blockquote {
 
 .hero-copy h1 {
   margin-top: 0.7rem;
-}
-
-.identity-lines {
-  margin: 1.4rem 0 1.8rem;
-  color: var(--navy);
-  font-family: var(--sans);
-  font-size: clamp(1rem, 2vw, 1.16rem);
-  line-height: 1.65;
-}
-
-.identity-lines span {
-  display: block;
 }
 
 .hero-actions,
