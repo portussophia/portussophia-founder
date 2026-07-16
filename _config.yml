@@ -1,5 +1,5 @@
-title: "James Roy Dennis — Founder of PortusSophia™"
-description: "Professional identity, mission, and institutional genesis of the PortusSophia™ architecture."
+title: "James Roy Dennis | Founder Portfolio"
+description: "Founder identity, inquiry mode, selected work, applied lineage, and bounded engagement for James Roy Dennis and PortusSophia."
 theme: minima
 
 markdown: kramdown
@@ -14,6 +14,8 @@ exclude:
 
 header_pages:
   - index.md
-  - bio/bio-300.md
-  - founder-statement.md
-  - problem-statement.md
+  - bio/index.md
+  - inquiry.md
+  - work.md
+  - lineage.md
+  - engage.md
