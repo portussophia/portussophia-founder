@@ -805,10 +805,22 @@ blockquote {
 
 .dinner-story {
   padding-bottom: clamp(4rem, 10vw, 8rem);
+  background-color: var(--parchment);
+  background-image: radial-gradient(
+    circle at 50% 34rem,
+    rgba(143, 107, 77, 0.08) 0,
+    rgba(143, 107, 77, 0.035) 24rem,
+    transparent 46rem
+  );
 }
 
 .dinner-header-band {
-  background: var(--navy);
+  background-color: var(--navy);
+  background-image: radial-gradient(
+    circle at 50% 35%,
+    rgba(240, 181, 63, 0.055) 0,
+    transparent 58%
+  );
 }
 
 .dinner-header {
@@ -923,20 +935,26 @@ blockquote {
   padding-left: clamp(1rem, 8vw, 4.5rem);
   color: var(--navy);
   font-family: var(--sans);
-  font-size: 0.82rem;
-  font-weight: 780;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  font-size: 1rem;
+  font-variant-caps: all-small-caps;
+  font-weight: 720;
+  letter-spacing: 0.065em;
 }
 
 .dinner-content blockquote {
   max-width: 43rem;
   margin: 0 auto 2.5rem;
   padding: 0.15rem clamp(1rem, 8vw, 4.5rem) 0.15rem clamp(1.15rem, 5vw, 3rem);
-  border-left: 1px solid var(--rule);
+  border-left: 1px solid rgba(143, 107, 77, 0.38);
+  background-image: linear-gradient(
+    90deg,
+    rgba(143, 107, 77, 0.035),
+    transparent 58%
+  );
   color: var(--slate);
-  font-size: 1.06rem;
-  line-height: 1.72;
+  font-family: var(--serif);
+  font-size: 1.08rem;
+  line-height: 1.76;
 }
 
 .dinner-content blockquote p {
@@ -957,7 +975,7 @@ blockquote {
   max-width: 43rem;
   margin-block: 3.5rem;
   padding: 1.4rem clamp(1rem, 5vw, 2.5rem);
-  border-block: 1px solid var(--rule);
+  border-block: 1px solid rgba(143, 107, 77, 0.3);
   color: var(--warm-slate);
   font-style: italic;
 }
