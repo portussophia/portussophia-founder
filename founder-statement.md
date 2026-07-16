@@ -1,135 +1,41 @@
 ---
-title: "PortusSophia™ Founder’s Statement"
-uid: "PS-CAN-FS-001_FounderStatement_PublicAligned_v2"
-cycle: "Canon"
-version: "v2.0"
-language: "en"
-author: "James Roy Dennis — Founder"
-classification: "Canon (Public-Aligned)"
-distribution: "Public"
-controlled_lexical_element: "*Here and Now!*"
-
-public_orientation:
-  motto: "**Love, Faith and Joy** — *Here and Now!*"
-  url: "https://public.portussophia.com"
-
-distributed_research:
-
-- label: "ORCID"
-  url: "https://orcid.org/0009-0000-6689-8763"
-- label: "SSRN Author Page"
-  url: "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792"
-
-identity_note: "This statement preserves authorship and responsibility without elevating personality above structure. **James Roy Dennis** is a founder and published researcher developing  **PortusSophia™** : a versioned canon of research methods and artifacts designed to preserve integrity under constraint."
--------------------------------------------------------------------------------------------------------------------
+title: "Founder’s Statement"
+description: "A bounded statement of origin, responsibility, and authority by James Roy Dennis."
+eyebrow: "James Roy Dennis · PortusSophia™"
+intro: "Authorship and responsibility without interpretive supremacy."
+layout: page
+permalink: /founder-statement/
 ---
 
----
+## Origin
 
-## Origin Context
+PortusSophia is inspired and made possible by faith and belief gifted to me by another—trust that I would give the work my best effort and would not forget where that trust came from.
 
-**This is inspired and made possible by way of:**
+The inquiry also grew through repeated exposure to structural failure: systems collapsing under pressure; authority expanding as clarity receded; governance becoming ceremony rather than mechanism; and individuals held accountable without an inspectable account of how responsibility reached them.
 
-*Faith and Belief gifted to me by another trusting that I would give it my best effort and trusting I wouldn't  forget where the faith and belief were derived.
+Military technical service taught me that standards mean little if they do not bind the person who enforces them. Engineering reinforced that constraints must precede expansion. Research made visible how often drift is structural rather than malicious.
 
-**This has manifested by way of repeated exposure to structural failure:**
+## Responsibility
 
-* Systems collapsing under pressure.
-* Authority expanding when clarity recedes.
-* Governance treated as ceremony rather than mechanism.
-* Individuals held accountable without inspectable structure.
+I originated and built the PortusSophia inquiry and its architecture. I supplied its foundational questions, thought experiments, distinctions, conduct conditions, and research direction; designed the differentiated stewardship environment; and retained the decisions about what entered the work.
 
-**This was made possible by way of a toolset:**
+AI systems contributed substantively to drafting, research assistance, organization, comparison, criticism, and review. They did not originate PortusSophia, own its claims, or serve as final arbiters. Naming my responsibility does not erase their contribution; naming their contribution does not transfer authorship of the field architecture.
 
-Military service* taught me that standards mean nothing if they do not bind the one who enforces them. *Engineering* practice reinforced that constraints must precede expansion. *Research* clarified that drift is rarely malicious — it is structural.
+## Authority
 
-##### PortusSophia™ is a response to these patterns.
+I retain authorship responsibility. I do not claim interpretive supremacy.
 
----
+The work remains context-bound, revisable, and open to criticism. Constraints apply to the Founder as well as to the system. No declaration of independence, provenance, or method establishes the correctness of every philosophical claim.
 
-## Foundational Commitment
+PortusSophia does not prescribe belief, moral rank, or a universal problem on behalf of another person. The person or institution retains responsibility for declaring the problem they believe they carry.
 
-#### The framework is built on several non-negotiable commitments:
+## Public boundary
 
-1. **Structure before assertion.** Claims must sit inside inspectable constraint.
-2. **Symmetry before authority.** Systems that evaluate must themselves be evaluable.
-3. **Governance before scale.** Mechanism must precede influence.
-4. **Audit before narrative.** Integrity must be demonstrable.
+This Founder site carries my identity, inquiry mode, applied lineage, and selected work. The complete PortusSophia definition, governing declaration, field architecture, programme corpus, provenance, and artifact standing remain canonical at [public.portussophia.com](https://public.portussophia.com).
 
-*These commitments are architectural, not ideological.*
+I offer the work as disciplined inquiry, not doctrine: in gratitude rather than authority, with the next sentence left open until it has been earned.
 
----
+*Here and Now!*
 
-## Scope of Claim
-
-#### I claim that:
-
-* Governance mechanisms can be structurally encoded rather than socially implied.
-* Role separation reduces blind-spot amplification in complex systems.
-* Cryptographic traceability strengthens institutional memory.
-* Constraint-first design reduces the probability of totalizing drift.
-
-*I do not claim universality, infallibility, or finality.*
-
-*All work remains revisable, testable, and open to critique.*
-
----
-
-## On Authority
-
-*As Founder, I retain authorship responsibility. I do not claim interpretive supremacy.*
-
-#### The framework is designed so that:
-
-* No single perspective becomes absolute.
-* Constraints apply to the author as well as the system.
-* Drift must be detectable.
-
-*Authority is bounded by structure.*
-
----
-
-## Ethical Posture
-
-#### PortusSophia™ does not prescribe moral rank or impose belief.
-
-##### It emphasizes:
-
-* Non-coercion (no forced interpretive closure)
-* Non-resolution (no premature certainty)
-* Accountability (clear attribution of authorship)
-* Humility under constraint
-
-*These are design disciplines, not spiritual declarations.*
-
----
-
-## Long-Term Intent
-
-#### The long-term objective is structural durability and canonical integrity.
-
-If the architecture cannot scale beyond a single founder without collapsing into authority concentration or symbolic inflation, it has failed. The canon must remain inspectable, revisable, and resistant to drift.
-
-*That question remains open.*
-
----
-
-## Closing
-
-#### I offer this framework not as doctrine, but as disciplined inquiry.
-
-The canon stands or falls on coherence, constraint integrity, and practical applicability—not on rhetorical force or symbolic weight.
-
-*Here and Now!* — All claims remain context-bound and revisable.
-
----
-
-**Links**
-
-* Public orientation: [https://public.portussophia.com](https://public.portussophia.com/)
-* Founder profile: [https://founder.portussophia.com](https://founder.portussophia.com/)
-
----
-
-**James Roy Dennis**
-Architecht/Founder, PortusSophia™
+**James Roy Dennis**  
+Founder, PortusSophia, LLC · Architect of PortusSophia™

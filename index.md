@@ -1,141 +1,86 @@
 ---
-title: "Founder"
-nav_title: "Founder"
-site_title: "PortusSophia™"
-layout: page
-show_header: true
+title: "James Roy Dennis"
+description: "Independent Researcher, Independent Scholar, Author, and Founder of PortusSophia™."
+layout: home
+show_header: false
 permalink: /
 ---
+<section class="home-hero shell" aria-labelledby="founder-name">
+  <figure class="portrait-frame">
+    <img src="{{ '/assets/images/james-roy-dennis.jpg' | relative_url }}" width="761" height="990" alt="Portrait of James Roy Dennis">
+  </figure>
 
-# James Roy Dennis
+  <div class="hero-copy">
+    <p class="eyebrow">Founder and professional portfolio</p>
+    <h1 id="founder-name">James Roy Dennis</h1>
+    <p class="identity-lines">
+      <span>Independent Researcher · Independent Scholar · Author</span>
+      <span>Founder, PortusSophia, LLC · Architect of PortusSophia™</span>
+    </p>
+    <p class="lede">I trace how decisions, assumptions, distinctions, and failures move across interfaces—especially where a visible breakdown conceals the condition that made it possible.</p>
+    <div class="hero-actions">
+      <a class="button-link" href="{{ '/inquiry/' | relative_url }}">Enter the inquiry</a>
+      <a class="button-link secondary" href="{{ '/bio/' | relative_url }}">Read the biography</a>
+    </div>
+  </div>
+</section>
 
-**Founder and Owner, PortusSophia, LLC**
+<section class="orientation-band" aria-labelledby="orientation-heading">
+  <div class="shell orientation-grid">
+    <div>
+      <p class="section-label">Declared orientation</p>
+      <h2 id="orientation-heading">Person, programme, portfolio</h2>
+      <p>These belong to one public architecture without becoming the same thing.</p>
+    </div>
+    <dl class="distinction-list">
+      <div>
+        <dt>James Roy Dennis</dt>
+        <dd>The Founder, originating field architect, directing investigator, and accountable human presence.</dd>
+      </div>
+      <div>
+        <dt>PortusSophia™</dt>
+        <dd>The independent research programme and candidate field architecture James originated and built.</dd>
+      </div>
+      <div>
+        <dt>This portfolio</dt>
+        <dd>The Founder-facing interface for biography, inquiry mode, selected work, applied lineage, and bounded engagement.</dd>
+      </div>
+    </dl>
+  </div>
+</section>
 
-James Roy Dennis is the Founder and Owner of PortusSophia, LLC, a Maryland-based research and consulting organization. He is a published researcher, author of *A Field Guide to Epistemic Failure*, and creator of PortusSophia™, a framework examining how structure, consequence, and judgment remain legible under constraint.
+<section class="home-paths shell" aria-labelledby="paths-heading">
+  <p class="section-label">Five paths</p>
+  <h2 id="paths-heading">Begin where the question is alive</h2>
+  <div class="pathways">
+    <article class="path-card">
+      <h3><a href="{{ '/bio/' | relative_url }}">Bio</a></h3>
+      <p>A concise account of the person, origin, and posture behind the work.</p>
+    </article>
+    <article class="path-card">
+      <h3><a href="{{ '/inquiry/' | relative_url }}">Inquiry</a></h3>
+      <p>Provenance-centered recursive inquiry, stewardship, correction, and human adjudication.</p>
+    </article>
+    <article class="path-card">
+      <h3><a href="{{ '/work/' | relative_url }}">Selected Work</a></h3>
+      <p>A small, bounded selection of books, research manuscripts, and public communication.</p>
+    </article>
+    <article class="path-card">
+      <h3><a href="{{ '/lineage/' | relative_url }}">Applied Lineage</a></h3>
+      <p>The technical, operational, and human capacities that precede and continue through PortusSophia.</p>
+    </article>
+    <article class="path-card">
+      <h3><a href="{{ '/engage/' | relative_url }}">Engage</a></h3>
+      <p>Fellowships, research collaboration, advisory work, publishing, talks, and workshops.</p>
+    </article>
+  </div>
+</section>
 
-For more than three decades, his work has lived at the intersection of systems architecture, software engineering, governance, organizational design, healthcare interoperability, and high-stakes operational environments where responsibility, consequence, and decision-making remain difficult to localize.
-
-PortusSophia™ is the research expression of that trajectory: a methodical inquiry into how costs, constraints, interpretations, and consequences move through systems over time. The work proceeds descriptively rather than prescriptively and seeks to preserve legibility without demanding deference, ideology, hierarchy, or authority.
-
----
-
-## Research Profiles & Public Records
-
-Independent verification of research, publications, and professional activity.
-
-- [ORCID Public Record](https://orcid.org/0009-0000-6689-8763)
-- [SSRN Author Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9648792)
-- [ResearchGate Profile](https://www.researchgate.net/profile/James-Dennis-17)
-- [Lens Scholar Profile](https://www.lens.org/lens/profile/697110263/scholar)
-
----
-
-## Publications
-
-### *A Field Guide to Epistemic Failure* (2026)
-
-*A Field Guide to Epistemic Failure* provides a practical taxonomy for identifying recurring patterns of knowledge failure across institutions, organizations, technical systems, and human environments.
-
-The work introduces a descriptive vocabulary for recognizing structural breakdowns that often remain difficult to articulate despite being widely experienced.
-
-**Book:** [https://leanpub.com/afieldguidetoepistemicfailure](https://leanpub.com/afieldguidetoepistemicfailure)
-
-### Additional Research
-
-Research papers, framework documents, whitepapers, and working papers are available through the public research profiles listed above.
-
----
-
-## Professional Focus
-
-Bounded research and architectural frameworks concerned with:
-
-- Coherence under constraint
-- Governance and accountability
-- Structural drift and failure modes
-- Interpretation and consequence
-- Boundary definition and role separation
-- Responsibility preservation in complex systems
-- Cross-domain translation of ambiguous problems
-
-Work is especially relevant where:
-
-- Structural drift threatens integrity
-- Stakeholders operate with conflicting incentives
-- Responsibility and consequence are difficult to localize
-- Systems must remain inspectable without collapsing into authority claims
-- Complexity obscures decision-making and accountability
-
----
-
-## Research & Framework Development
-
-PortusSophia™ provides axioms, postulates, capacity statements, and bounded architectural language describing patterns observed through ongoing research and investigation.
-
-These materials are descriptive rather than prescriptive.
-
-PortusSophia™ makes no claim to universal authority, institutional status, doctrinal certainty, or exclusive expertise. Its purpose is to provide language, structure, and conceptual tools that help preserve legibility where complexity, ambiguity, and consequence intersect.
-
-Public-facing work includes:
-
-- Research papers
-- Framework documents
-- Whitepapers
-- Diagnostic taxonomies
-- Governance-oriented conceptual models
-
----
-
-## Core Capabilities
-
-- Systems architecture and structural design
-- Governance and constraint modeling
-- Risk and drift analysis
-- Healthcare interoperability
-- Cross-domain translation
-- Boundary definition and role separation
-- High-pressure decision stabilization
-- Organizational and technical systems analysis
-
-Specializing in translating ambiguous problems into inspectable structure.
-
----
-
-## Collaboration & Consulting
-
-### Research Collaboration
-
-Academic collaboration, institutional inquiry, interdisciplinary research, framework review, and research discussion.
-
-[research@portussophia.com](mailto:research@portussophia.com)
-
-### Consulting
-
-Selective consulting engagements are available in:
-
-- Governance-aware system design
-- Healthcare interoperability
-- Systems architecture
-- Constraint and risk modeling
-- Organizational structure and accountability
-
-[contact@portussophia.com](mailto:contact@portussophia.com)
-
-PortusSophia, LLC operates with bounded capacity and selective engagement. Work is accepted only where scope, responsibility, and expectations remain clearly defined.
-
----
-
-## Boundary
-
-This page presents a founder identity, professional background, and research posture.
-
-It is not a claim to institutional authority, doctrinal status, completed certainty, or exclusive expertise.
-
-Its purpose is to identify the individual responsible for founding PortusSophia, LLC and developing PortusSophia™, while preserving the distinction between author, organization, and framework.
-
----
-
-**James Roy Dennis**  
-Founder and Owner, PortusSophia, LLC
-
-Professional identity, published work, and institutional origin of PortusSophia™.
+<section class="closing-return" aria-labelledby="programme-heading">
+  <div class="shell">
+    <p class="section-label">Programme boundary</p>
+    <h2 id="programme-heading">The complete programme record lives elsewhere</h2>
+    <p>Definitions, field architecture, programme governance, the full research catalogue, provenance, and artifact standing remain canonical at <a href="https://public.portussophia.com">public.portussophia.com</a>.</p>
+    <p class="return">Here and Now!</p>
+  </div>
+</section>
