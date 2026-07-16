@@ -1,11 +1,12 @@
 ---
-title: Bio (30 words)
-nav_title: Bio
-site_title: PortusSophia™
+title: "Bio (30 words)"
+nav_title: "Bio"
 layout: page
-show_header: true
+kicker: "Short biography"
+summary: "A 30-word biography for programmes, introductions, and concise attribution."
 permalink: /bio/30/
 ---
-**James Roy Dennis** — Published Researcher, Non-Affiliated Academic Scholar and Systems Architect developing governance-aware, constraint-based research frameworks. This work was born from faith gifted by another. [ORCID](https://orcid.org/0009-0000-6689-8763) | [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
 
-**Love, Faith and Joy** — *Here and Now!*
+James Roy Dennis is an independent researcher, independent scholar, author, and Founder of PortusSophia. His provenance-centered work makes cross-field inquiry more governable while keeping human judgment, boundaries, and accountability visible.
+
+[Return to the canonical biography →]({{ "/bio/" | relative_url }})
