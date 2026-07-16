@@ -340,12 +340,12 @@ blockquote {
 }
 
 .site-header--overlay + .site-main .home-hero {
-  padding-top: clamp(6.5rem, 10vw, 8.5rem);
+  padding-top: clamp(5.125rem, 6vw, 6.125rem);
 }
 
 .site-header--overlay + .site-main .page-header,
 .site-header--overlay + .site-main .dinner-header {
-  padding-top: clamp(6.5rem, 10vw, 8.5rem);
+  padding-top: clamp(5.125rem, 6vw, 6.125rem);
 }
 
 .home-hero-band {
@@ -623,6 +623,26 @@ blockquote {
 .boundary-note h2 {
   margin-top: 0;
   font-size: 1.3rem;
+}
+
+.programme-reference {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--navy);
+  text-decoration: none;
+}
+
+.programme-reference img {
+  flex: 0 0 auto;
+  width: 2.75rem;
+  height: auto;
+}
+
+.programme-reference:hover span {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
 }
 
 .site-footer {

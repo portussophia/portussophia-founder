@@ -24,7 +24,6 @@ Many apparent interface failures are **carry failures**. A value survives while 
 The inquiry follows the path upstream, then tests how each proposed explanation carries its own burden.
 
 <section class="declaration" aria-labelledby="problem-heading">
-  <p class="section-label">Problem ownership</p>
   <h2 id="problem-heading">The problem is yours to declare</h2>
   <p>PortusSophia does not impose a universal problem statement on a person or institution. An empty problem statement was never an omission to be filled by authority; it preserved the place in which the participant names what they believe they are carrying.</p>
   <p>Inquiry can examine that declaration, its provenance, its boundaries, and the costs it distributes. It does not begin by taking ownership of the problem away from the person or institution living with it.</p>
@@ -50,8 +49,12 @@ James designed and operated a stewardship environment in which AI systems held d
 
 Correction is part of the method. So are criticism, uncertainty, and the decision to leave a question unresolved when closure has not been earned.
 
-<div class="boundary-note" markdown="1">
-## Where the full programme lives
-
-This page describes the Founder's inquiry mode and provenance. The complete PortusSophia definition, governing declaration, field architecture, programme disciplines, research catalogue, provenance, and artifact-standing record remain at [public.portussophia.com](https://public.portussophia.com).
+<div class="boundary-note programme-boundary">
+  <h2>
+    <a class="programme-reference" href="https://public.portussophia.com">
+      <img src="{{ '/assets/img/portussophia-logo_icon_v1.2.png' | relative_url }}" width="391" height="360" alt="">
+      <span>PortusSophia™</span>
+    </a>
+  </h2>
+  <p>This page describes the Founder's inquiry mode and provenance. The complete PortusSophia definition, governing declaration, field architecture, programme disciplines, research catalogue, provenance, and artifact-standing record remain with the public programme record.</p>
 </div>
