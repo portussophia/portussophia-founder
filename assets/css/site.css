@@ -90,6 +90,57 @@ a:hover {
   background: rgba(241, 236, 227, 0.98);
 }
 
+.site-header--overlay {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: 0;
+  background: transparent;
+}
+
+.site-header--overlay .header-inner {
+  justify-content: space-between;
+  min-height: 4.75rem;
+}
+
+.home-anchor {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  color: var(--navy);
+  text-decoration: none;
+}
+
+.home-anchor svg {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
+.home-anchor:hover {
+  color: var(--link);
+}
+
+.site-header--overlay .home-anchor {
+  color: var(--ps-grey);
+}
+
+.site-header--overlay .home-anchor:hover {
+  color: var(--parchment);
+}
+
+.site-header--overlay .nav-list a {
+  color: var(--ps-grey);
+}
+
+.site-header--overlay .nav-list a:hover,
+.site-header--overlay .nav-list a[aria-current="page"] {
+  color: var(--parchment);
+}
+
 .header-inner {
   display: flex;
   align-items: center;
@@ -286,6 +337,10 @@ blockquote {
   align-items: center;
   gap: clamp(2.5rem, 7vw, 6.5rem);
   padding-block: clamp(3.5rem, 8vw, 7.5rem);
+}
+
+.site-header--overlay + .site-main .home-hero {
+  padding-top: clamp(6.5rem, 10vw, 8.5rem);
 }
 
 .home-hero-band {
@@ -632,6 +687,11 @@ blockquote {
     list-style: none;
   }
 
+  .site-header--overlay .site-nav summary {
+    border-color: var(--ps-mgrey);
+    color: var(--parchment);
+  }
+
   .site-nav summary::-webkit-details-marker {
     display: none;
   }
@@ -656,6 +716,10 @@ blockquote {
     box-shadow: 0 1rem 2rem rgba(13, 27, 42, 0.14);
   }
 
+  .site-header--overlay .site-nav nav {
+    background: var(--paper);
+  }
+
   .site-nav:not([open]) nav {
     display: none;
   }
@@ -674,6 +738,12 @@ blockquote {
     border-bottom: 0;
     border-left-color: var(--link);
     background: var(--paper);
+  }
+
+  .site-header--overlay .nav-list a,
+  .site-header--overlay .nav-list a:hover,
+  .site-header--overlay .nav-list a[aria-current="page"] {
+    color: var(--navy);
   }
 }
 
