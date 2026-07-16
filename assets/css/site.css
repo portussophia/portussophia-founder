@@ -686,6 +686,28 @@ blockquote {
   gap: 0.55rem 1rem;
 }
 
+.footer-panels {
+  display: grid;
+  gap: 0.75rem;
+  justify-items: end;
+}
+
+.footer-social {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.55rem 1rem;
+}
+
+.footer-panel-label {
+  color: var(--white);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
 .site-footer a {
   color: var(--ps-grey);
 }
@@ -990,6 +1012,14 @@ blockquote {
   }
 
   .footer-links {
+    justify-content: flex-start;
+  }
+
+  .footer-panels {
+    justify-items: start;
+  }
+
+  .footer-social {
     justify-content: flex-start;
   }
 
