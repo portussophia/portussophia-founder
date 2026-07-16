@@ -480,6 +480,13 @@ blockquote {
   margin-bottom: 0;
 }
 
+.paths-intro {
+  max-width: var(--measure);
+  margin: 0.45rem 0 0;
+  color: var(--warm-slate);
+  font-size: clamp(1.05rem, 2vw, 1.2rem);
+}
+
 .pathways,
 .work-list,
 .lineage-grid,
