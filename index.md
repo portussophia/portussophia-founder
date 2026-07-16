@@ -19,7 +19,7 @@ permalink: /
     </div>
   </div>
   <figure class="portrait-card">
-    <img src="https://drive.google.com/uc?export=view&id=1sj1lT0XSBifSJvgDt-3gSaBkaXtqvv8_" alt="Portrait of James Roy Dennis">
+    <img src="{{ "/assets/images/james-roy-dennis.jpg" | relative_url }}" alt="Portrait of James Roy Dennis">
     <figcaption>James Roy Dennis · Founder, PortusSophia, LLC</figcaption>
   </figure>
 </section>
