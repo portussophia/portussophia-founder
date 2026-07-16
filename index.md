@@ -26,7 +26,6 @@ permalink: /
 <section class="orientation-band" aria-labelledby="orientation-heading">
   <div class="shell orientation-grid">
     <div>
-      <p class="section-label">Declared orientation</p>
       <h2 id="orientation-heading">Orientation, Restraint, Discipline</h2>
       <p>These belong to one public architecture without becoming the same thing.</p>
     </div>
@@ -58,8 +57,8 @@ permalink: /
 </section>
 
 <section class="home-paths shell" aria-labelledby="paths-heading">
-  <p class="section-label">Five paths</p>
-  <h2 id="paths-heading">Begin where the question is alive</h2>
+  <h2 id="paths-heading">Five paths</h2>
+  <p class="paths-intro">Begin where the question is alive.</p>
   <div class="pathways">
     <article class="path-card">
       <h3><a href="{{ '/bio/' | relative_url }}">Bio</a></h3>
@@ -86,7 +85,6 @@ permalink: /
 
 <section class="closing-return" aria-labelledby="programme-heading">
   <div class="shell">
-    <p class="section-label">Programme boundary</p>
     <h2 id="programme-heading">The complete programme record lives elsewhere</h2>
     <p>Definitions, field architecture, programme governance, the full research catalogue, provenance, and artifact standing remain canonical at <a href="https://public.portussophia.com">PortusSophia™</a>.</p>
   </div>
