@@ -40,5 +40,5 @@ permalink: /work/
 <div class="boundary-note" markdown="1">
 ## Standing and provenance
 
-This selection is an orientation layer, not a second publication database. For the complete programme architecture, research catalogue, publication provenance, and artifact standing, use [public.portussophia.com](https://public.portussophia.com). Public identity records are also available through [ORCID](https://orcid.org/0009-0000-6689-8763) and [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792).
+This selection is an orientation layer, not a second publication database. For the complete programme architecture, research catalogue, publication provenance, and artifact standing, use [PortusSophia™](https://public.portussophia.com). Public identity records are also available through [ORCID](https://orcid.org/0009-0000-6689-8763) and [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792).
 </div>

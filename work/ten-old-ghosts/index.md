@@ -502,7 +502,12 @@ The word **hierarchy** hangs above the table without yet declaring whether it me
 <div class="story-coda" markdown="1">
 <p class="story-final-refrain"><em>Here and Now!</em></p>
 
-PortusSophia™
+<p class="story-programme-link">
+  <a class="programme-reference" href="https://public.portussophia.com/">
+    <img src="{{ '/assets/img/portussophia-logo_icon_v1.2.png' | relative_url }}" width="391" height="360" alt="">
+    <span>PortusSophia™</span>
+  </a>
+</p>
 
 **Fiction—not a review**
 
@@ -511,6 +516,4 @@ PortusSophia™
 *None of the dialogue represents anyone’s real historical opinion.*
 
 *This is a daydream, written for fun, after a long night of writing.*
-
-No one above actually read these papers, and this is not a claim that they would agree with a word of it. Living scholars are deliberately absent from the guest list. Just me, having fun with people I admire.
 </div>
