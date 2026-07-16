@@ -478,6 +478,10 @@ blockquote {
   color: var(--warm-slate);
 }
 
+.distinction-list dd p:last-child {
+  margin-bottom: 0;
+}
+
 .pathways,
 .work-list,
 .lineage-grid,

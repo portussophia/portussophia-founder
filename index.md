@@ -32,21 +32,31 @@ permalink: /
   <div class="shell orientation-grid">
     <div>
       <p class="section-label">Declared orientation</p>
-      <h2 id="orientation-heading">Person, programme, portfolio</h2>
+      <h2 id="orientation-heading">Orientation, Restraint, Discipline</h2>
       <p>These belong to one public architecture without becoming the same thing.</p>
     </div>
     <dl class="distinction-list">
       <div>
         <dt>James Roy Dennis</dt>
-        <dd>The Founder, originating field architect, directing investigator, and accountable human presence.</dd>
+        <dd>
+          <p>Founder of PortusSophia™ and independent researcher working across philosophy of science, epistemic architecture, systems analysis, and human-governed AI inquiry.</p>
+          <p>His work examines how distinctions, meaning, provenance, and responsibility survive—or fail—across technical, organizational, and disciplinary interfaces.</p>
+        </dd>
       </div>
       <div>
         <dt>PortusSophia™</dt>
-        <dd>The independent research programme and candidate field architecture James originated and built.</dd>
+        <dd>
+          <p>An independent research programme and candidate field architecture for abstract epistemic discipline.</p>
+          <p>Originated and built by James Roy Dennis, PortusSophia develops three related areas of inquiry—Legibility Grammar, Regime Translation, and Observational Restraint Infrastructure—to examine how distinctions, meaning, provenance, and explanatory responsibility survive or fail across disciplines, systems, and interfaces.</p>
+          <p>The architecture is governed by a declared interface that limits its authority, preserves differences among regimes, and resists premature resolution or closure.</p>
+        </dd>
       </div>
       <div>
         <dt>This portfolio</dt>
-        <dd>The Founder-facing interface for biography, inquiry mode, selected work, applied lineage, and bounded engagement.</dd>
+        <dd>
+          <p>A public interface to the life, work, and continuing inquiry of James Roy Dennis—Founder of PortusSophia™, independent researcher, systems builder, and originating field architect.</p>
+          <p>The portfolio brings together his intellectual and professional lineage, research programme, methods, selected publications, creative work, and the forms of scholarly, institutional, and professional engagement through which the work may be examined, supported, or extended.</p>
+        </dd>
       </div>
     </dl>
   </div>
