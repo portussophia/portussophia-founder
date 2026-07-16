@@ -445,6 +445,12 @@ blockquote {
   background: var(--navy);
 }
 
+.home-hero-band .button-link.secondary:hover {
+  border-color: var(--parchment);
+  background: var(--parchment);
+  color: var(--navy);
+}
+
 .orientation-band {
   padding-block: clamp(3.25rem, 7vw, 6rem);
   border-block: 1px solid var(--rule);

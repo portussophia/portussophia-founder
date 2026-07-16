@@ -37,5 +37,6 @@ I offer the work as disciplined inquiry, not doctrine: in gratitude rather than 
 
 *Here and Now!*
 
-**James Roy Dennis**  
-Founder, PortusSophia, LLC · Architect of PortusSophia™
+**James Roy Dennis**<br>
+Field Architect | Author | Independent Researcher & Scholar<br>
+Founder, PortusSophia, LLC · Originator of the PortusSophia™ Field Architecture

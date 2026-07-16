@@ -1,6 +1,6 @@
 ---
 title: "James Roy Dennis"
-description: "Independent Researcher, Independent Scholar, Author, Founder of PortusSophia, LLC, and Architect of PortusSophia™."
+description: "Field Architect | Author | Independent Researcher & Scholar. Founder, PortusSophia, LLC · Originator of the PortusSophia™ Field Architecture."
 layout: home
 show_header: false
 permalink: /
@@ -15,13 +15,13 @@ permalink: /
       <p class="eyebrow">Professional Portfolio</p>
       <h1 id="founder-name">James Roy Dennis</h1>
       <p class="identity-lines">
-        <span>Independent Researcher · Independent Scholar · Author</span>
-        <span>Founder, PortusSophia, LLC (Maryland) · Architect of PortusSophia™</span>
+        <span>Field Architect | Author | Independent Researcher &amp; Scholar</span>
+        <span>Founder, PortusSophia, LLC · Originator of the PortusSophia™ Field Architecture</span>
       </p>
       <p class="lede">I trace how decisions, assumptions, distinctions, and failures move across interfaces—especially where a visible breakdown conceals the condition that made it possible.</p>
       <div class="hero-actions">
-        <a class="button-link" href="{{ '/inquiry/' | relative_url }}">Enter the inquiry</a>
-        <a class="button-link secondary" href="{{ '/bio/' | relative_url }}">Read the biography</a>
+        <a class="button-link" href="{{ '/inquiry/' | relative_url }}">Inquiry</a>
+        <a class="button-link secondary" href="{{ '/bio/' | relative_url }}">Read Biography</a>
       </div>
     </div>
   </div>
