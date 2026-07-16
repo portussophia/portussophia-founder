@@ -504,6 +504,10 @@ blockquote {
 .lineage-card h2,
 .engagement-card h2 {
   margin-top: 0;
+  color: var(--navy);
+  font-size: clamp(1.12rem, 1.8vw, 1.3rem);
+  font-weight: 680;
+  line-height: 1.3;
 }
 
 .path-card a {
