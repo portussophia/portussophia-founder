@@ -343,6 +343,11 @@ blockquote {
   padding-top: clamp(6.5rem, 10vw, 8.5rem);
 }
 
+.site-header--overlay + .site-main .page-header,
+.site-header--overlay + .site-main .dinner-header {
+  padding-top: clamp(6.5rem, 10vw, 8.5rem);
+}
+
 .home-hero-band {
   background: var(--navy);
 }

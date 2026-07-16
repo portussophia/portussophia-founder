@@ -3,7 +3,6 @@ title: "James Roy Dennis"
 description: "Independent Researcher, Independent Scholar, Author, Founder of PortusSophia, LLC, and Architect of PortusSophia™."
 layout: home
 show_header: false
-header_variant: overlay
 permalink: /
 ---
 <section class="home-hero-band" aria-labelledby="founder-name">
