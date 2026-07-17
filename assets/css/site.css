@@ -1163,3 +1163,105 @@ blockquote {
     color: inherit;
   }
 }
+
+
+/* Shared Founder/Public anchor navigation */
+.site-header--overlay .home-anchor {
+  color: var(--ps-gold);
+}
+
+.mobile-nav {
+  display: none;
+}
+
+.anchor-menu {
+  position: relative;
+  margin-left: auto;
+}
+
+.anchor-menu-panel {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 11;
+  min-width: 18rem;
+  padding: 0.65rem;
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  box-shadow: 0 1rem 2rem rgba(13, 27, 42, 0.16);
+  opacity: 0;
+  transform: translateY(-0.35rem);
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 120ms ease, transform 120ms ease, visibility 120ms ease;
+}
+
+.anchor-menu:hover .anchor-menu-panel,
+.anchor-menu:focus-within .anchor-menu-panel {
+  opacity: 1;
+  transform: translateY(0);
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.anchor-menu-panel .nav-list {
+  display: block;
+}
+
+.anchor-menu-panel .nav-list a,
+.site-header--overlay .anchor-menu-panel .nav-list a {
+  padding: 0.7rem 0.75rem;
+  border-bottom: 0;
+  border-left: 2px solid transparent;
+  color: var(--navy);
+}
+
+.anchor-menu-panel .nav-list a:hover,
+.site-header--overlay .anchor-menu-panel .nav-list a:hover,
+.anchor-menu-panel .nav-list a[aria-current="page"],
+.site-header--overlay .anchor-menu-panel .nav-list a[aria-current="page"] {
+  border-left-color: var(--link);
+  color: var(--navy);
+}
+
+.anchor-menu-panel .nav-list .nav-home,
+.mobile-nav .nav-list .nav-home {
+  margin: 0 0 0.45rem;
+  padding: 0 0 0.45rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.anchor-menu-panel .nav-list .related-surface,
+.mobile-nav .nav-list .related-surface {
+  margin: 0.45rem 0 0;
+  padding: 0.45rem 0 0;
+  border-top: 1px solid var(--rule);
+}
+
+@media (max-width: 64rem) {
+  .header-inner {
+    align-items: center;
+  }
+
+  .mobile-nav {
+    display: block;
+    position: relative;
+    z-index: 12;
+  }
+
+  .mobile-nav .nav-list {
+    display: block;
+  }
+
+  .mobile-nav .nav-list a {
+    padding: 0.65rem 0.7rem;
+    border-bottom: 0;
+    border-left: 2px solid transparent;
+  }
+
+  .site-header--overlay .mobile-nav .nav-list a,
+  .site-header--overlay .mobile-nav .nav-list a:hover,
+  .site-header--overlay .mobile-nav .nav-list a[aria-current="page"] {
+    color: var(--navy);
+  }
+}
