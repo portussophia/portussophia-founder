@@ -1,5 +1,6 @@
 - title: Home
   url: /
+  separator_after: true
 
 - title: Bio
   url: /bio/
@@ -15,3 +16,8 @@
 
 - title: Engage
   url: /engage/
+
+- title: PortusSophia™ ↗
+  url: https://public.portussophia.com/
+  external: true
+  related_surface: true
