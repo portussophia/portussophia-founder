@@ -1,10 +1,15 @@
 title: "James Roy Dennis"
 description: "Field Architect | Author | Independent Researcher & Scholar. Founder, PortusSophia, LLC · Originator of the PortusSophia™ Field Architecture."
 url: "https://founder.portussophia.com"
-theme: minima
 
+# The site owns its layouts, includes, and styles. No remote or packaged theme
+# supplies hidden header, footer, navigation, or page-shell behavior.
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
 
 github:
   is_project_page: false
