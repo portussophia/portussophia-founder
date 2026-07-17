@@ -86,6 +86,6 @@ permalink: /
 <section class="closing-return" aria-labelledby="programme-heading">
   <div class="shell">
     <h2 id="programme-heading">The complete programme record lives elsewhere</h2>
-    <p>Definitions, field architecture, programme governance, the full research catalogue, provenance, and artifact standing remain canonical at <a href="https://public.portussophia.com">PortusSophia™</a>.</p>
+    <p>Definitions, field architecture, programme governance, the full research catalogue, provenance, and artifact standing remain canonical at <a href="https://public.portussophia.com" target="_blank" rel="noopener noreferrer">PortusSophia™</a>.</p>
   </div>
 </section>
