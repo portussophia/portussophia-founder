@@ -26,7 +26,7 @@ permalink: /work/
     <p class="standing">Draft companion-series manuscripts</p>
     <h2>TRI · PLA · FTM · EPS</h2>
     <p>A coordinated philosophy-of-science sequence examining structural resolution, explanatory burden, distinctions among framework/theory/model, and a candidate Energy–Phase–State primitive. No public version numbers are asserted here; the manuscripts preserve explicit capacity horizons and do not present internal survival as external validation.</p>
-    <p><a href="https://public.portussophia.com">Consult canonical programme records</a></p>
+    <p><a href="https://public.portussophia.com" target="_blank" rel="noopener noreferrer">Consult canonical programme records</a></p>
   </article>
 
   <article class="work-card">
@@ -40,5 +40,5 @@ permalink: /work/
 <div class="boundary-note" markdown="1">
 ## Standing and provenance
 
-This selection is an orientation layer, not a second publication database. For the complete programme architecture, research catalogue, publication provenance, and artifact standing, use [PortusSophia™](https://public.portussophia.com). Public identity records are also available through [ORCID](https://orcid.org/0009-0000-6689-8763) and [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792).
+This selection is an orientation layer, not a second publication database. For the complete programme architecture, research catalogue, publication provenance, and artifact standing, use [PortusSophia™](https://public.portussophia.com){: target="_blank" rel="noopener noreferrer" }. Public identity records are also available through [ORCID](https://orcid.org/0009-0000-6689-8763) and [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792).
 </div>
