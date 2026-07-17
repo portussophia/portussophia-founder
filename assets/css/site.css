@@ -145,8 +145,10 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
   min-height: 6rem;
   gap: 2rem;
+  padding-inline: clamp(0.75rem, 2vw, 1.5rem);
 }
 
 .site-identity {
