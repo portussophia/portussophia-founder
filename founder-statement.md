@@ -31,7 +31,7 @@ PortusSophia does not prescribe belief, moral rank, or a universal problem on be
 
 ## Public boundary
 
-This Founder site carries my identity, inquiry mode, applied lineage, and selected work. The complete PortusSophia definition, governing declaration, field architecture, programme corpus, provenance, and artifact standing remain canonical at [PortusSophia™](https://public.portussophia.com).
+This Founder site carries my identity, inquiry mode, applied lineage, and selected work. The complete PortusSophia definition, governing declaration, field architecture, programme corpus, provenance, and artifact standing remain canonical at [PortusSophia™](https://public.portussophia.com){: target="_blank" rel="noopener noreferrer" }.
 
 I offer the work as disciplined inquiry, not doctrine: in gratitude rather than authority, with the next sentence left open until it has been earned.
 
