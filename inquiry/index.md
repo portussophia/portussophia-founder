@@ -52,7 +52,7 @@ Correction is part of the method. So are criticism, uncertainty, and the decisio
 <div class="boundary-note programme-boundary">
   <h2>
     <a class="programme-reference" href="https://public.portussophia.com" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/portussophia-logo_icon_v1.2.png' | relative_url }}" width="391" height="360" alt="">
+      <img src="https://assets.portussophia.com/img/site/logo.png" width="391" height="360" alt="">
       <span>PortusSophia™</span>
     </a>
   </h2>
