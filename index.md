@@ -8,7 +8,7 @@ permalink: /
 <section class="home-hero-band" aria-labelledby="founder-name">
   <div class="home-hero shell">
     <figure class="portrait-frame">
-      <img src="{{ '/assets/img/james-roy-dennis.jpg' | relative_url }}" width="381" height="497" alt="Portrait of James Roy Dennis">
+      <img src="https://assets.portussophia.com/img/site/james-roy-dennis.jpg" width="381" height="497" alt="Portrait of James Roy Dennis">
     </figure>
 
     <div class="hero-copy">
