@@ -33,7 +33,7 @@ permalink: /
       <div>
         <dt>James Roy Dennis</dt>
         <dd>
-          <p>Founder of PortusSophia™ and independent researcher working across philosophy of science, epistemic architecture, systems analysis, and human-governed AI inquiry.</p>
+          <p>Architect of PortusSophia™; Founder of PortusSophia, LLC; and independent researcher working across philosophy of science, epistemic architecture, systems analysis, and human-governed AI inquiry.</p>
           <p>His work examines how distinctions, meaning, provenance, and responsibility survive—or fail—across technical, organizational, and disciplinary interfaces.</p>
         </dd>
       </div>
@@ -48,7 +48,7 @@ permalink: /
       <div>
         <dt>This portfolio</dt>
         <dd>
-          <p>A public interface to the life, work, and continuing inquiry of James Roy Dennis—Founder of PortusSophia™, independent researcher, systems builder, and originating field architect.</p>
+          <p>A public interface to the life, work, and continuing inquiry of James Roy Dennis—Architect of PortusSophia™, Founder of PortusSophia, LLC, independent researcher, and systems builder.</p>
           <p>The portfolio brings together his intellectual and professional lineage, research programme, methods, selected publications, creative work, and the forms of scholarly, institutional, and professional engagement through which the work may be examined, supported, or extended.</p>
         </dd>
       </div>
