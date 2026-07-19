@@ -12,19 +12,21 @@ permalink: /bio/
     <img src="https://assets.portussophia.com/img/site/james-roy-dennis.jpg" width="381" height="497" alt="Portrait of James Roy Dennis">
   </figure>
 
-  <div markdown="1">
-**James Roy Dennis** is a Field Architect, Author, and Independent Researcher & Scholar; Founder of PortusSophia, LLC, registered in Maryland; and Originator of the PortusSophia™ Field Architecture. His research develops governance-aware, constraint-based frameworks for AI-assisted and high-stakes environments. The work integrates epistemic, ethical, and structural analysis as architectural constraints rather than after-the-fact commentary.
+  <div class="bio-copy">
+    <p><strong>James Roy Dennis</strong> is a Field Architect, Author, and Independent Researcher &amp; Scholar; Founder of PortusSophia, LLC, registered in Maryland; and Originator of the PortusSophia™ Field Architecture. His research develops governance-aware, constraint-based frameworks for AI-assisted and high-stakes environments. The work integrates epistemic, ethical, and structural analysis as architectural constraints rather than after-the-fact commentary.</p>
 
-PortusSophia™ addresses a recurring failure in human systems: moving from *what is* toward *what ought to be* without distortion, coercion, or drift. It is not a belief system and does not claim truth or universal authority. It offers structure, boundaries, and governance primitives intended to keep meaning legible under pressure.
+    <p>PortusSophia™ addresses a recurring failure in human systems: moving from <em>what is</em> toward <em>what ought to be</em> without distortion, coercion, or drift. It is not a belief system and does not claim truth or universal authority. It offers structure, boundaries, and governance primitives intended to keep meaning legible under pressure.</p>
 
-The origin of this work is another person's faith in James—a faith she grounded in her own relationship with her higher power. Its execution is his best effort to keep that faith alive. Born into difficult circumstances, he learned through scarcity to hold fear and ego without allowing either to become the whole account. Today, he is infinitely grateful.
+    <p>The origin of this work is another person's faith in James—a faith she grounded in her own relationship with her higher power. Its execution is his best effort to keep that faith alive. Born into difficult circumstances, he learned through scarcity to hold fear and ego without allowing either to become the whole account. Today, he is infinitely grateful.</p>
 
-This site is not a résumé and not an appeal to authority. Its focus is the person responsible for the inquiry: disciplined language, traceable work, declared limits, correction, and the restraint required to stop where a sentence has not been earned. Inquiry in a spirit of dignity, respect, and kindness is welcome. James does not ask anyone to change.
+    <p>This site is not a résumé and not an appeal to authority. Its focus is the person responsible for the inquiry: disciplined language, traceable work, declared limits, correction, and the restraint required to stop where a sentence has not been earned. Inquiry in a spirit of dignity, respect, and kindness is welcome. James does not ask anyone to change.</p>
 
-PortusSophia™ is offered in gratitude, not authority, so that dignity, care, and coherence may hold where systems might otherwise lose what they were meant to carry.
+    <p>PortusSophia™ is offered in gratitude, not authority, so that dignity, care, and coherence may hold where systems might otherwise lose what they were meant to carry.</p>
 
-- [ORCID public record](https://orcid.org/0009-0000-6689-8763)
-- [SSRN author page](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792)
+    <ul>
+      <li><a href="https://orcid.org/0009-0000-6689-8763">ORCID public record</a></li>
+      <li><a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792">SSRN author page</a></li>
+    </ul>
   </div>
 </div>
 
