@@ -48,3 +48,9 @@ Open `http://127.0.0.1:4000/` while the command remains running.
 - `problem-statement.md` is intentionally absent. No universal problem statement is supplied on behalf of a visitor; each person or institution declares the problem they believe they are carrying. The stale navigation reference was removed rather than replaced.
 
 No legacy content file was silently deleted during the first-stage reconstruction.
+
+## Rights and use
+
+Copyright © 2026 PortusSophia, LLC. All rights reserved.
+
+See [`RIGHTS.md`](RIGHTS.md) for the repository’s rights and use statement.
