@@ -1,6 +1,6 @@
 ---
 title: "Biography"
-description: "Biography of James Roy Dennis, Founder of PortusSophia™."
+description: "Biography of James Roy Dennis, Architect of PortusSophia™ and Founder of PortusSophia, LLC."
 eyebrow: "James Roy Dennis"
 intro: "Field Architect | Author | Independent Researcher & Scholar"
 layout: page
@@ -13,7 +13,7 @@ permalink: /bio/
   </figure>
 
   <div class="bio-copy">
-    <p><strong>James Roy Dennis</strong> is a Field Architect, Author, and Independent Researcher &amp; Scholar; Founder of PortusSophia, LLC, registered in Maryland; and Originator of the PortusSophia™ Field Architecture. His research develops governance-aware, constraint-based frameworks for AI-assisted and high-stakes environments. The work integrates epistemic, ethical, and structural analysis as architectural constraints rather than after-the-fact commentary.</p>
+    <p><strong>James Roy Dennis</strong> is a Field Architect, Author, and Independent Researcher &amp; Scholar; Architect of PortusSophia™; and Founder of PortusSophia, LLC, registered in Maryland. His research develops governance-aware, constraint-based frameworks for AI-assisted and high-stakes environments. The work integrates epistemic, ethical, and structural analysis as architectural constraints rather than after-the-fact commentary.</p>
 
     <p>PortusSophia™ addresses a recurring failure in human systems: moving from <em>what is</em> toward <em>what ought to be</em> without distortion, coercion, or drift. It is not a belief system and does not claim truth or universal authority. It offers structure, boundaries, and governance primitives intended to keep meaning legible under pressure.</p>
 
