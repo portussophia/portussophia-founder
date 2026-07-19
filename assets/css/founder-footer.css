@@ -110,14 +110,16 @@
 
 .founder-footer .footer-closing {
   display: grid;
-  padding-block: 1.5rem 0.55rem;
+  padding-block: 1.5rem 0.65rem;
   justify-items: center;
-  gap: 0.06rem;
+  gap: 0.12rem;
   text-align: center;
 }
 
 .founder-footer .footer-refrain {
-  margin: 0;
+  margin: 0 0 0.58rem;
+  padding: 0 1.35rem 0.68rem;
+  border-bottom: 1px solid rgba(204, 204, 204, 0.32);
   color: var(--ps-gold, #f0b53f);
   font-family: var(--serif, Georgia, serif);
   font-size: clamp(1.16rem, 1.55vw, 1.42rem);
@@ -131,12 +133,12 @@
   margin: 0;
   color: var(--ps-grey, #cccccc);
   font-size: 0.72rem;
-  line-height: 1.08;
+  line-height: 1.15;
 }
 
 .founder-footer .footer-rights-link {
   font-size: 0.72rem;
-  line-height: 1.08;
+  line-height: 1.15;
 }
 
 @media (max-width: 52rem) {
@@ -174,7 +176,12 @@
   }
 
   .founder-footer .footer-closing {
-    padding-block: 1rem 0.5rem;
+    padding-block: 1.1rem 0.55rem;
+  }
+
+  .founder-footer .footer-refrain {
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.6rem;
   }
 }
 
