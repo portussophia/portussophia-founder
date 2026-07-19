@@ -1,0 +1,185 @@
+/* Founder-only footer composition.
+ * Preserves the richer Founder identity and directory while matching the
+ * PortusSophia closing treatment used across the non-Founder surfaces.
+ */
+
+.site-footer.founder-footer {
+  padding-block: 0;
+  border-top: 0.18rem solid var(--ps-gold, #f0b53f);
+  background-color: var(--ps-navy, #0d1b2a);
+  background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='.022' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3Cpath d='M1 0h1L0 2V1zM2 0h1L0 3V2zM3 0h1L0 4V3zM4 0h1L0 5V4zM6 1v1L2 6H1zM6 2v1L3 6H2zM6 3v1L4 6H3zM6 4v1L5 6H4z'/%3E%3C/g%3E%3C/svg%3E");
+  background-repeat: repeat;
+  background-size: 6px 6px;
+  color: var(--parchment, #faf8f5);
+}
+
+.founder-footer .footer-band {
+  width: 100%;
+}
+
+.founder-footer .footer-band + .footer-band {
+  border-top: 1px solid rgba(204, 204, 204, 0.28);
+}
+
+.founder-footer .footer-site-band,
+.founder-footer .footer-closing-band {
+  padding: 0;
+}
+
+.founder-footer .footer-directory {
+  display: grid;
+  padding-block: 0.9rem;
+  grid-template-columns: minmax(20rem, 1.15fr) minmax(0, 1.85fr);
+  gap: clamp(1.5rem, 4vw, 4rem);
+  align-items: start;
+}
+
+.founder-footer .footer-identity {
+  text-align: left;
+}
+
+.founder-footer .footer-name,
+.founder-footer .footer-role,
+.founder-footer .footer-context {
+  max-width: 36rem;
+  margin: 0;
+}
+
+.founder-footer .footer-name {
+  color: var(--parchment, #faf8f5);
+  font-size: clamp(1rem, 1.2vw, 1.12rem);
+  font-weight: 720;
+  line-height: 1.15;
+}
+
+.founder-footer .footer-role {
+  margin-top: 0.28rem;
+  color: var(--ps-grey, #cccccc);
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.founder-footer .footer-context {
+  margin-top: 0.18rem;
+  color: var(--ps-grey, #cccccc);
+  font-size: 0.76rem;
+  line-height: 1.35;
+}
+
+.founder-footer .footer-panels {
+  display: grid;
+  width: 100%;
+  margin: 0;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  justify-self: stretch;
+  justify-items: start;
+  gap: clamp(1rem, 2.5vw, 2.25rem);
+  text-align: left;
+}
+
+.founder-footer .footer-panel {
+  display: grid;
+  align-content: start;
+  justify-items: start;
+  gap: 0.16rem;
+}
+
+.founder-footer .footer-panel-label {
+  margin-bottom: 0.12rem;
+  color: var(--ps-gold, #f0b53f);
+  font-size: 0.72rem;
+  font-weight: 740;
+  letter-spacing: 0.1em;
+  line-height: 1.15;
+  text-transform: uppercase;
+}
+
+.founder-footer .footer-panel a,
+.founder-footer .footer-rights-link {
+  color: var(--parchment, #faf8f5);
+  line-height: 1.28;
+  text-underline-offset: 0.18em;
+}
+
+.founder-footer .footer-panel a:hover,
+.founder-footer .footer-panel a:focus-visible,
+.founder-footer .footer-rights-link:hover,
+.founder-footer .footer-rights-link:focus-visible {
+  color: var(--ps-gold, #f0b53f);
+}
+
+.founder-footer .footer-closing {
+  display: grid;
+  padding-block: 1.5rem 0.55rem;
+  justify-items: center;
+  gap: 0.06rem;
+  text-align: center;
+}
+
+.founder-footer .footer-refrain {
+  margin: 0;
+  color: var(--ps-gold, #f0b53f);
+  font-family: var(--serif, Georgia, serif);
+  font-size: clamp(1.16rem, 1.55vw, 1.42rem);
+  letter-spacing: 0.015em;
+  line-height: 1.05;
+  text-align: center;
+}
+
+.founder-footer .footer-copyright {
+  max-width: none;
+  margin: 0;
+  color: var(--ps-grey, #cccccc);
+  font-size: 0.72rem;
+  line-height: 1.08;
+}
+
+.founder-footer .footer-rights-link {
+  font-size: 0.72rem;
+  line-height: 1.08;
+}
+
+@media (max-width: 52rem) {
+  .founder-footer .footer-directory {
+    width: min(calc(100% - 2rem), 42rem);
+    padding-block: 1rem;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .founder-footer .footer-identity,
+  .founder-footer .footer-panels {
+    text-align: center;
+  }
+
+  .founder-footer .footer-name,
+  .founder-footer .footer-role,
+  .founder-footer .footer-context {
+    margin-inline: auto;
+  }
+
+  .founder-footer .footer-panels {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .founder-footer .footer-panel {
+    justify-items: center;
+  }
+}
+
+@media (max-width: 34rem) {
+  .founder-footer .footer-panels {
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+
+  .founder-footer .footer-closing {
+    padding-block: 1rem 0.5rem;
+  }
+}
+
+@media print {
+  .site-footer.founder-footer {
+    background-image: none;
+  }
+}
