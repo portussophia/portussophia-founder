@@ -1,24 +1,42 @@
-<footer class="site-footer">
-  <div class="shell footer-inner">
-    <div>
-      <p class="footer-name">James Roy Dennis</p>
-      <p>Field Architect | Author | Independent Researcher &amp; Scholar</p>
-      <p>Founder, PortusSophia, LLC · Originator of the PortusSophia™ Field Architecture</p>
+{%- assign copyright_year = site.time | date: '%Y' -%}
+<footer class="site-footer founder-footer">
+  <div class="footer-band footer-site-band">
+    <div class="shell footer-directory">
+      <div class="footer-identity">
+        <p class="footer-name">James Roy Dennis</p>
+        <p class="footer-role">Field Architect | Author | Independent Researcher &amp; Scholar</p>
+        <p class="footer-context">Founder, PortusSophia, LLC · Originator of the PortusSophia™ Field Architecture</p>
+      </div>
+
+      <nav class="footer-panels" aria-label="Founder footer navigation">
+        <div class="footer-panel">
+          <span class="footer-panel-label">Programme</span>
+          <a href="https://public.portussophia.com" target="_blank" rel="noopener noreferrer">PortusSophia™</a>
+          <a href="https://github.com/portussophia" target="_blank" rel="noopener noreferrer">Programme GitHub</a>
+        </div>
+
+        <div class="footer-panel">
+          <span class="footer-panel-label">Research profiles</span>
+          <a href="https://orcid.org/0009-0000-6689-8763" target="_blank" rel="noopener noreferrer">ORCID</a>
+          <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792" target="_blank" rel="noopener noreferrer">SSRN</a>
+          <a href="https://www.researchgate.net/profile/James-Dennis-17?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+          <a href="https://www.lens.org/lens/profile/697110263/scholar#" target="_blank" rel="noopener noreferrer">Lens</a>
+        </div>
+
+        <div class="footer-panel">
+          <span class="footer-panel-label">Social</span>
+          <a href="https://github.com/jamesroydennis" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://www.linkedin.com/in/jamesroydennis" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        </div>
+      </nav>
     </div>
-    <p class="footer-refrain"><em>Here and Now!</em></p>
-    <div class="footer-panels">
-      <div class="footer-links" aria-label="External links">
-        <a href="https://public.portussophia.com" target="_blank" rel="noopener noreferrer">PortusSophia™</a>
-        <a href="https://orcid.org/0009-0000-6689-8763">ORCID</a>
-        <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=9648792">SSRN</a>
-        <a href="https://www.researchgate.net/profile/James-Dennis-17?ev=hdr_xprf">ResearchGate</a>
-        <a href="https://www.lens.org/lens/profile/697110263/scholar#">Lens</a>
-      </div>
-      <div class="footer-social" aria-label="Personal social links">
-        <span class="footer-panel-label">Social</span>
-        <a href="https://github.com/jamesroydennis">GitHub</a>
-        <a href="https://www.linkedin.com/in/jamesroydennis">LinkedIn</a>
-      </div>
+  </div>
+
+  <div class="footer-band footer-closing-band">
+    <div class="shell footer-closing">
+      <p class="footer-refrain"><em>Here and Now!</em></p>
+      <p class="footer-copyright">Copyright © {{ copyright_year }} PortusSophia, LLC. All rights reserved.</p>
+      <a class="footer-rights-link" href="{{ '/RIGHTS.md' | relative_url }}">Rights and Use</a>
     </div>
   </div>
 </footer>
