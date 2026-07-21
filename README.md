@@ -53,4 +53,6 @@ No legacy content file was silently deleted during the first-stage reconstructio
 
 Copyright © 2026 PortusSophia, LLC. All rights reserved.
 
-See [`RIGHTS.md`](RIGHTS.md) for the repository’s rights and use statement.
+See [`RIGHTS.md`](RIGHTS.md) for the repository’s default rights and use statement.
+
+See [`LICENSE.md`](LICENSE.md) for the limited permissions specific to reading, citing, linking to, and briefly quoting material from the Founder portfolio.
